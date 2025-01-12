@@ -49,7 +49,7 @@
 - thesis topic: business data structures
 - notes: top 1% global research university. THE world ranking 107th (2024).
 
-## backlog:
+## to do:
 - double degree: m.sc. management & m.sc. software engineering - estimated: 2026
 - thesis topic area: agentic capital governance
 
