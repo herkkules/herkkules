@@ -6,6 +6,7 @@
 - contacts: github: @herkkules; telegram: @...; whatsapp: @...; linkedin: @oskarhiekkanen
 - tags: ...
 
+***
 
 # latest experience
 
@@ -35,7 +36,7 @@
 - responsibilities: ...}
 
 # other: seed-funded cloud paas startup, startup 
-
+***
 # education
 
 ## done:
