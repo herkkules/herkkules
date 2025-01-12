@@ -7,11 +7,9 @@
 # tags: ...
 
 
-# *** past experience ***
+# *** latest experience ***
 
-# > print(work.sort(newest)):
-
-# 1 ->  { venture investment partnership,
+# 1 -> venture investment partnership,
 ##      project: securitisation of a digital technology service,
 ##      role: ...,
 ##      responsibilities: ... }
