@@ -7,12 +7,12 @@
 - tags: ...
 
 
-# *** latest experience ***
+# latest experience
 
-# venture investment partnership,
-## project: securitisation of a digital technology service,
-## role: ...,
-## responsibilities: ... 
+- venture investment partnership,
+-- project: securitisation of a digital technology service,
+-- role: ...,
+-- responsibilities: ... 
 
 # pe-funded saas multinational financial management,
 ## job title: product owner
