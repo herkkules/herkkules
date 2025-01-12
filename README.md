@@ -56,9 +56,6 @@
 ***
 
 
-# military: lance corporal(reserve), intelligence, army of finnish defence forces.
-
-# *** 
-
-
-# volunteering: ukraine war relief, technology entrepreneurship, sailing
+- military: lance corporal(reserve), intelligence, army of finnish defence forces.
+*** 
+- volunteering: ukraine war relief, technology entrepreneurship, sailing
