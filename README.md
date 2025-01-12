@@ -9,7 +9,7 @@
 
 # latest experience
 
-- venture investment partnership,
+## venture investment partnership,
 - project: securitisation of a digital technology service,
 - role: ...,
 - responsibilities: ... 
