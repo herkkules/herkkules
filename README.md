@@ -9,44 +9,41 @@
 
 # *** latest experience ***
 
-# 1 -> venture investment partnership,
-##      project: securitisation of a digital technology service,
-##      role: ...,
-##      responsibilities: ... }
+# venture investment partnership,
+## project: securitisation of a digital technology service,
+## role: ...,
+## responsibilities: ... 
 
-# 2 -> { pe-funded saas multinational financial management,
-##      job title: product owner
-##      role: ...
-##      responsibilities: ... }
+# pe-funded saas multinational financial management,
+## job title: product owner
+## role: ...
+## responsibilities: ... 
 
-# 3 -> { angel-funded hospitality mobile saas scaleup,
-##      job title: product owner,
-##      role: ...,
-##      responsibilities: ... }
+# angel-funded hospitality mobile saas scaleup,
+## job title: product owner,
+## role: ...,
+## responsibilities: ... 
 
-# 4 -> { vc-funded professional services scaleup,
-##      job title: solutions consultant
-##      role: solutions consultant
-##      responsibilities: ... }
+# vc-funded professional services scaleup,
+## job title: solutions consultant
+## role: solutions consultant
+## responsibilities: ... }
 
-# 5 -> { startup advisory partnership,
-##      job title: analyst
-##      role: ...
-##      responsibilities: ...}
+# startup advisory partnership,
+## job title: analyst
+## role: ...
+## responsibilities: ...}
 
-# n -> { seed-funded cloud paas startup, ...}, { startup neobank, ...},
+# other: seed-funded cloud paas startup, startup 
 
+# education
 
-# *** education ***
-
-# > print(education.status(epic)):
-
-# done:
-# b.sc. financial economics, hanken school of economics - completed: 2018
+## done:
+## b.sc. financial economics, hanken school of economics - completed: 2018
 ## thesis topic: valuation of early-movers vs late-movers in an ipo window
 ## notes: top 1% global business school. FT world ranking 57th (2024). exchange at sogang university, seoul.
 
-# in progress:
+## in progress:
 ## b.sc. computer science, university of helsinki - estimated: 2025
 ## thesis topic: business data structures
 ## notes: top 1% global research university. THE world ranking 107th (2024).
