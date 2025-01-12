@@ -2,9 +2,9 @@
 
 - name: oskar hiekkanen
 - whoami: creative capital strategist, nerd.
-# availability: now, globally. base: toronto.
-# contacts: github: @herkkules; telegram: @...; whatsapp: @...; linkedin: @oskarhiekkanen
-# tags: ...
+- availability: now, globally. base: toronto.
+- contacts: github: @herkkules; telegram: @...; whatsapp: @...; linkedin: @oskarhiekkanen
+- tags: ...
 
 
 # *** latest experience ***
