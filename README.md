@@ -1,7 +1,7 @@
-# *** tldr ***
+# tldr
 
-# name: oskar hiekkanen
-# whoami: creative capital strategist, nerd.
+- name: oskar hiekkanen
+- whoami: creative capital strategist, nerd.
 # availability: now, globally. base: toronto.
 # contacts: github: @herkkules; telegram: @...; whatsapp: @...; linkedin: @oskarhiekkanen
 # tags: ...
