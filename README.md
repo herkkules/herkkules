@@ -9,30 +9,30 @@
 
 # latest experience
 
-## venture investment partnership,
+## venture investment partnership
 - project: securitisation of a digital technology service,
 - role: ...,
 - responsibilities: ... 
 
-# pe-funded saas multinational financial management,
-## job title: product owner
-## role: ...
-## responsibilities: ... 
+## pe-funded saas multinational financial management,
+- job title: product owner
+- role: ...
+- responsibilities: ... 
 
-# angel-funded hospitality mobile saas scaleup,
-## job title: product owner,
-## role: ...,
-## responsibilities: ... 
+## angel-funded hospitality mobile saas scaleup,
+- job title: product owner,
+- role: ...,
+- responsibilities: ... 
 
-# vc-funded professional services scaleup,
-## job title: solutions consultant
-## role: solutions consultant
-## responsibilities: ... }
+## vc-funded professional services scaleup,
+- job title: solutions consultant
+- role: solutions consultant
+- responsibilities: ... }
 
-# startup advisory partnership,
-## job title: analyst
-## role: ...
-## responsibilities: ...}
+## startup advisory partnership,
+- job title: analyst
+- role: ...
+- responsibilities: ...}
 
 # other: seed-funded cloud paas startup, startup 
 
