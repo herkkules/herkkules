@@ -2,7 +2,6 @@
 - Name: Oskar Hiekkanen
 - whoami: finance strategist, nerd.
 - availability: now, globally. base: toronto.
-- contacts: github: @herkkules
 
 ***
 # services
