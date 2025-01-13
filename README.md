@@ -18,6 +18,8 @@ to smooth those out with my imperfections.
 - i am currently working on my startup(shh!)
 - i work remotely as a digital nomad. i will come to you when necessary.
 
+
+
 **things i can help you with**:
 - we stretch the runway with working capital hacks for my friends startup
 - we can establish a company from your github project
@@ -28,6 +30,14 @@ to smooth those out with my imperfections.
 brainstorm. 
 
 ... my american friend said that you guys are good at figuring something out.
+
+- what i can do immediately?
+ - interim product owner(someone left the company, need for someone to fill in until long term solution is found)
+ - eventstorming workshops
+ - market research(face-to-face user studies, commercial due diligence, ...
+ - product analysis
+ - investor presentations
+ - design-to-dev workflow improvements
 
 - what im nerding out on:
   - international holding companies
