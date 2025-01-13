@@ -57,7 +57,7 @@
 - startup cloud paas(@cloudcontrol)
 - startup neobank(@holvi)
 ***
-# education
+# Education
 
 ## Done:
 - **B.Sc. in Financial Economics**, Hanken School of Economics - completed: 2018
