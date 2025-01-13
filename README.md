@@ -62,7 +62,7 @@
   - European business school. FT global ranking 57th ([2024](https://rankings.ft.com/schools/498/hanken-school-of-economics/rankings/2961/masters-in-management-2024/ranking-data)). Exchange semester at Sogang University, Seoul.
 
 ## In progress:
-- **B.Sc. in Computer Science**, [@UniversityofHelsinki](https://github.com/UniversityofHelsinki) - estimated: 2025
+- **B.Sc. in Computer Science**, University of Helsinki - estimated: 2025
   - Thesis topic area: business data structures
   - European research university. THE global ranking 107th ([2025](https://www.timeshighereducation.com/world-university-rankings/university-helsinki)).
 
