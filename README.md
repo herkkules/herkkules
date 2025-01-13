@@ -22,23 +22,23 @@
 - role: ...,
 - responsibilities: ... 
 
-## pe-funded saas multinational financial management
+## pe-funded multinational fintech saas
 - company: @visma, company size: large
 - job title: product owner
 - role: ...
 - responsibilities: ... 
 
-## angel-funded hospitality mobile saas scaleup,
+## angel-funded fintech scaleup mobile saas
 - company: @yonoton, company size: small
 - job title: product owner,
 - role: ...,
 - responsibilities: ... 
 
-## vc-funded professional services scaleup
+## vc-funded scaleup professional services
 - @digitalworkforce, company size: medium
 - job title: solutions consultant
 - role: solutions consultant
-- responsibilities: ... }
+- responsibilities: ... 
 
 ## startup advisory partnership
 - @accelerando, size: small
