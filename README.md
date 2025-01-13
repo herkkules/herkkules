@@ -46,7 +46,7 @@
 - role: ...
 - responsibilities: ...}
 
-# other: seed-funded cloud paas startup(@cloudcontrol), startup neobank(@holvi)
+- other: seed-funded cloud paas startup(@cloudcontrol), startup neobank(@holvi)
 ***
 # education
 
