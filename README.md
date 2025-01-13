@@ -72,5 +72,5 @@
 
 # Other info
 
-- **military:** Lance Corporal(reserve), intelligence, Army of Finnish Defence Forces
-- **volunteering:** ukraine war relief, technology entrepreneurship, sailing
+- **Military rank:** Lance Corporal(reserve), intelligence, Army of Finnish Defence Forces
+- **Volunteering:** ukraine war relief, technology entrepreneurship, sailing
