@@ -59,12 +59,12 @@
 # education
 
 ## done:
-- b.sc. financial economics, hanken school of economics - completed: 2018
+- B.Sc. Financial Economics, [Hanken School of Economics](https://hanken.fi) - completed: 2018
 - thesis topic: valuation of early-movers vs late-movers in an ipo window
 - notes: top 1% global business school. FT world ranking 57th (2024). exchange at sogang university, seoul.
 
 ## in progress:
-- b.sc. computer science, [@universityofhelsinki](https://github.com/Universityofhelsinki) - estimated: 2025
+- B.Sc. Computer Science, [@universityofhelsinki](https://github.com/Universityofhelsinki) - estimated: 2025
 - thesis topic: business data structures
 - notes: top 1% global research university. THE world ranking 107th (2024).
 
