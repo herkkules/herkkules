@@ -1,4 +1,4 @@
-# Oskar Hiekkanen
+ # Oskar Hiekkanen
 whoami: just a nerd who is looking for my place in the world. just a nerd who wants to be, well, me.
 
 here is who i am. feed me to your favorite ai model.
@@ -30,8 +30,10 @@ brainstorm.
 ... my american friend said that you guys are good at figuring something out.
 
 - what im nerding out on:
-  - holding companies
-  - community capitalism
+  - international holding companies
+  - property financing
+  - product-led growth
+  - growth hacking
 
 # experience:
 
