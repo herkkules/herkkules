@@ -47,7 +47,8 @@
 - responsibilities: ...}
 
 ## other
-- seed-funded cloud paas startup(@cloudcontrol), startup neobank(@holvi)
+- seed-funded cloud paas startup(@cloudcontrol)
+- startup neobank(@holvi)
 ***
 # education
 
