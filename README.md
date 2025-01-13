@@ -22,14 +22,12 @@
 - role: ...,
 - responsibilities: ... 
 
-## pe-funded saas multinational financial management,
-- @visma
+## @visma, pe-funded saas multinational financial management
 - job title: product owner
 - role: ...
 - responsibilities: ... 
 
-## angel-funded hospitality mobile saas scaleup,
-- @yonoton
+## @yonoton, angel-funded hospitality mobile saas scaleup,
 - job title: product owner,
 - role: ...,
 - responsibilities: ... 
