@@ -2,7 +2,6 @@
 
 - name: oskar hiekkanen
 - whoami: creative capital strategist, nerd.
-- whatido: business spinouts, investment proposals, business plans, 
 - availability: now, globally. base: toronto.
 - contacts: github: @herkkules; telegram: @...; whatsapp: @...; linkedin: @oskarhiekkanen
 - tags: ...
@@ -12,6 +11,7 @@
 - spinouts
 - securitization of business models
 - commercial due diligence
+- business plans
 
 ***
 
