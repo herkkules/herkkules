@@ -15,7 +15,8 @@
 ---
 - **Preferred way of working**
   - Project scope: 1 month
-  - Deliverable: markdown in git repository
+  - Deliverable: per agreement
+  - Format: markdown in git repository
 
 
 # Experience:
