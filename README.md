@@ -22,18 +22,18 @@
 
 # Experience:
 ---
-- type: venture investment partnership
+**Company type: venture investment partnership**
 - project: securitisation of a digital technology service,
 - role: ...,
 - responsibilities: ... 
 ---
-- type: pe-funded multinational fintech saas
+**Company type: pe-funded multinational fintech saas**
 - company: @visma, company size: large
 - job title: product owner
 - role: ...
 - responsibilities: ... 
 ---
-angel-funded fintech scaleup mobile saas
+**Company type: angel-funded fintech scaleup mobile saas**
 - company: @yonoton, company size: small
 - job title: product owner,
 - role: ...,
