@@ -1,4 +1,4 @@
-# TLDR:
+# TLDR
 - Name: Oskar Hiekkanen
 - Description: finance strategist, nerd.
 
