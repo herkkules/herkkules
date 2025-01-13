@@ -85,7 +85,7 @@ brainstorm.
 
 ## to do:
 - double degree in **M.Sc. Management** & **M.Sc. Software Engineering** - estimated: 2026
-  - thesis topic area: company as code
+  - thesis topic area: programmable companies
 
 # Other info
 
