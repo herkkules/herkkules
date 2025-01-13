@@ -34,17 +34,19 @@
 - role: ...,
 - responsibilities: ... 
 
-## vc-funded professional services scaleup,
+## vc-funded professional services scaleup
+- @digitalworkforce
 - job title: solutions consultant
 - role: solutions consultant
 - responsibilities: ... }
 
-## startup advisory partnership,
+## startup advisory partnership
+- @accelerando
 - job title: analyst
 - role: ...
 - responsibilities: ...}
 
-# other: seed-funded cloud paas startup, startup 
+# other: seed-funded cloud paas startup(@cloudcontrol), startup neobank(@holvi)
 ***
 # education
 
