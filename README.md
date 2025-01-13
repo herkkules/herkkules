@@ -21,37 +21,36 @@
 ***
 
 # Experience:
-
+---
 - type: venture investment partnership
 - project: securitisation of a digital technology service,
 - role: ...,
 - responsibilities: ... 
-
-
+---
 - type: pe-funded multinational fintech saas
 - company: @visma, company size: large
 - job title: product owner
 - role: ...
 - responsibilities: ... 
-
+---
 angel-funded fintech scaleup mobile saas
 - company: @yonoton, company size: small
 - job title: product owner,
 - role: ...,
 - responsibilities: ... 
-
-## vc-funded scaleup professional services
+---
+- type: vc-funded scaleup professional services
 - @digitalworkforce, company size: medium
 - job title: solutions consultant
 - role: solutions consultant
 - responsibilities: ... 
-
-## startup advisory partnership
+---
+- type: startup advisory partnership
 - @accelerando, size: small
 - job title: analyst
 - role: ...
 - responsibilities: ...
-
+---
 ## other
 - startup cloud paas(@cloudcontrol)
 - startup neobank(@holvi)
