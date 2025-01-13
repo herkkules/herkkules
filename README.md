@@ -8,6 +8,12 @@
 - tags: ...
 
 ***
+# services
+- spinouts
+- securitization of business models
+- commercial due diligence
+
+***
 
 # latest experience
 
