@@ -52,7 +52,7 @@ brainstorm.
   - publicly listed services company(@securitas)
 
 
-# Education
+# educations
 
 ## Done:
 - **B.Sc. in Financial Economics**, Hanken School of Economics - completed: 2018
