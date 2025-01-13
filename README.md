@@ -3,8 +3,7 @@
 - name: oskar hiekkanen
 - whoami: finance strategist, nerd.
 - availability: now, globally. base: toronto.
-- contacts: github: @herkkules; telegram: @...; whatsapp: @...; linkedin: @oskarhiekkanen
-
+  
 ***
 # services
 - spinouts
