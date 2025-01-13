@@ -67,7 +67,7 @@
 ## in progress:
 - B.Sc. in Computer Science, [@UniversityofHelsinki](https://github.com/UniversityofHelsinki) - estimated: 2025
 - thesis topic: business data structures
-- notes: top 1% global research university. THE world ranking 107th ([2025](https://www.timeshighereducation.com/world-university-rankings/university-helsinki)).
+- notes: top 1% global research university. THE ranking 107th ([2025](https://www.timeshighereducation.com/world-university-rankings/university-helsinki)).
 
 ## to do:
 - double degree: m.sc. management & m.sc. software engineering - estimated: 2026
