@@ -4,7 +4,6 @@
 - whoami: finance strategist, nerd.
 - availability: now, globally. base: toronto.
 - contacts: github: @herkkules; telegram: @...; whatsapp: @...; linkedin: @oskarhiekkanen
-- tags: ...
 
 ***
 # services
@@ -17,6 +16,9 @@
 - company structures
 - shell companies
 
+## preferred ways of working
+- scope: 1 month
+- deliverable: markdown, git repository
 
 
 ***
