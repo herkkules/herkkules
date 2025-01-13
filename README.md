@@ -1,10 +1,8 @@
-# TLDR
+# TLDR:
 - Name: Oskar Hiekkanen
 - Description: finance strategist, nerd.
-- Availability: now, globally. base: toronto.
 
-***
-# Services
+# Services:
 - spinouts
 - securitisation of digital business models
 - commercial due diligence
@@ -22,20 +20,21 @@
 
 ***
 
-# latest experience
+# Experience:
 
-## venture investment partnership
+- type: venture investment partnership
 - project: securitisation of a digital technology service,
 - role: ...,
 - responsibilities: ... 
 
-## pe-funded multinational fintech saas
+
+- type: pe-funded multinational fintech saas
 - company: @visma, company size: large
 - job title: product owner
 - role: ...
 - responsibilities: ... 
 
-## angel-funded fintech scaleup mobile saas
+angel-funded fintech scaleup mobile saas
 - company: @yonoton, company size: small
 - job title: product owner,
 - role: ...,
