@@ -1,25 +1,33 @@
-# TLDR
+# Oskar Hiekkanen
 - Name: Oskar Hiekkanen
-- Description: finance strategist, nerd.
+- whoami: just a nerd who is looking for my place in the world. just a nerd who wants to be, well, me.
 
-# Services:
-- spinouts
-- securitisation of digital business models
-- commercial due diligence
-- technical due diligence
-- business plans
-- pitchbooks
-- market analysis
-- company structures
-- shell companies
----
-- **Preferred way of working**
-  - Project scope: 1 month
-  - Deliverable: per agreement
-  - Format: markdown in git repository
+as some of us are, i too am imperfect.
 
+while i have my strengths,
 
-# Experience:
+- figuring out a clever hacks
+- intense, but bursty focus
+- stubborness to get something done
+
+to smooth those out with my imperfections. 
+
+- i am currently working on my startup(shh!)
+- i work remotely as a digital nomad
+- 
+
+**things i can help you with**:
+- we stretch the runway with working capital hacks for my friends startup
+- we can package your github repo into a git-operated shell company that is source-available (doing this for myself)
+- we can prep you for nerdy deep dives with investors
+- we can fly me over to 
+- we can ...
+
+brainstorm. 
+
+... my american friend said that you guys are good at figuring something out.
+
+# experience:
 
 - **angel investment partnership**
   - project: securitisation of a digital technology service
