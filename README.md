@@ -61,7 +61,7 @@ brainstorm.
   - company: @accelerando, type: startup advisory partnership
   - tools: spreadsheets
   - skills upgrade: presentations
-  - role: freelance analyst hired for due diligence, market research ...
+  - role: freelance analyst hired for due diligence, market analysis, booking meetings
 
 - **business analyst**
   - @cloudcontrol, type: startup cloud paas
