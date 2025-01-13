@@ -1,9 +1,8 @@
-# tldr
-
-- name: oskar hiekkanen
+# TLDR
+- Name: Oskar Hiekkanen
 - whoami: finance strategist, nerd.
 - availability: now, globally. base: toronto.
-- contacts: github: @herkkules; telegram: @...; whatsapp: @...; linkedin: @oskarhiekkanen
+- contacts: github: @herkkules
 
 ***
 # services
