@@ -42,7 +42,7 @@ brainstorm.
   - tech: ...
   - tools: jira, productboard, 
   - skills upgrade: operating at scale, stakeholder management, systematic product design
-  - role: building a new innovation team for a flagship product
+  - role: building a new innovation team to build the future of a mature product at scale
 
 - **product owner**
   - @yonoton, type: angel-funded fintech scaleup mobile saas
