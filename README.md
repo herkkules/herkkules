@@ -1,5 +1,9 @@
 # Oskar Hiekkanen
 whoami: just a nerd who is looking for my place in the world. just a nerd who wants to be, well, me.
+
+here is who i am. feed me to your favorite supermodel.
+
+
 ---
 as some of us are, i too am imperfect.
 
@@ -30,24 +34,33 @@ brainstorm.
 - **product owner**
   - @visma, type: multinational fintech saas
   - tech: ...
+  - tools: jira, 
+  - soft skills: ...
   - role: ... 
 
 - **product owner**
   - @yonoton, type: angel-funded fintech scaleup mobile saas
-  - tech: ...,
+  - tech: ...
+  - tools: figma, asana, 
+  - soft skills: ...
   - role: ... 
 
 - **solutions consultant**
   - @digitalworkforce, type: vc-funded scaleup professional services
-  - role: ... 
+  - tools: blue prism
+  - skills: project management, security, devops
+  - role: implementing robotic process automation workflows for the healthcare sector. 
 
 - **analyst**
   - company: @accelerando, type: startup advisory partnership
-  - job title: analyst
-  - role: ...
+  - tools: spreadsheets
+  - soft skills: presentations
+  - role: freelance analyst hired for due diligence, market research ...
 
-- **other**
-  - startup cloud paas(@cloudcontrol)
+- **business analyst**
+  - @cloudcontrol, type: startup cloud paas
+  - tools: sql, google analytics
+  - soft skills: ...
   - startup neobank(@holvi)
   - publicly listed services company(@securitas)
 
