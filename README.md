@@ -45,27 +45,27 @@ brainstorm.
 # experience:
 
 - **product owner**
-  - @visma, type: multinational fintech saas
+  - @visma, 1 year, type: multinational fintech saas
   - tech: 
   - tools: jira, productboard, python notebooks
   - skills upgrade: operating at scale, stakeholder management, systematic product design
   - role: building a new innovation team to build the future of a mature product at scale
 
 - **product owner**
-  - @yonoton, type: angel-funded fintech scaleup mobile saas
+  - @yonoton, 2 years, type: angel-funded fintech scaleup mobile saas
   - tech: react native, firebase, redis, 
   - tools: figma, asana, slack
   - skills upgrade: design systems, agile workflows, client onboarding
   - role: direct relationship with customers 
 
 - **solutions consultant**
-  - @digitalworkforce, type: vc-funded scaleup professional services
+  - @digitalworkforce, 1 year, type: vc-funded scaleup professional services
   - tools: blue prism
   - skills upgrade: project management, security, devops
   - role: implementing robotic process automation workflows for healthcare sector clients
  
 - **analyst**
-  - company: @accelerando, type: startup advisory partnership
+  - company: @accelerando, 3 years part-time, type: startup advisory partnership
   - tools: spreadsheets
   - skills upgrade: presentations
   - role: freelance analyst hired for market analysis, booking meetings, data entry, etc...
