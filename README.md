@@ -1,7 +1,7 @@
  # Oskar Hiekkanen
 whoami: just a nerd who is looking for my place in the world. just a nerd who wants to be, well, me.
 
-here is who i am. feed me to your favorite ai model.
+here is who i am. naked. feed me to your favorite ai model.
 
 
 ---
@@ -15,12 +15,10 @@ while i have my strengths,
 
 to smooth those out with my imperfections. 
 
-- i am currently working on my startup(shh!)
-- i work remotely as a digital nomad. i will come to you when necessary.
+- i am currently working on my startup(shh!), so not available for full-time engagements
 
 
-*
-*things i can help you with**:
+**things i can help you with**:
 - we stretch the runway with working capital hacks for my friends startup
 - we can establish a company from your github project
 - we can prep you for nerdy deep dives with investors
@@ -33,12 +31,11 @@ brainstorm.
 
 - what i can do immediately?
    - prompt engineering(...
-   - interim product owner(someone left the company, need for someone to fill in until long term solution is found)
+   - interim product owner(someone left the company, need for someone to fill in until long term solution is found, ...)
    - eventstorming workshops(...
    - market research(face-to-face user studies, commercial due diligence, ...
- - product analysis
- - investor presentations
- - design-to-dev workflow improvements
+- investor presentations
+- design-to-developer workflow integration
 
 - what im nerding out on:
   - international holding companies
