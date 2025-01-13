@@ -42,20 +42,20 @@ brainstorm.
   - tech: ...
   - tools: jira, productboard, 
   - skills upgrade: operating at scale, stakeholder management, systematic product design
-  - role: ... 
+  - role: building a new innovation team for a flagship product
 
 - **product owner**
   - @yonoton, type: angel-funded fintech scaleup mobile saas
   - tech: react native, firebase, 
   - tools: figma, asana, slack
-  - skills upgrade: design systems, agile workflows
-  - role: ... 
+  - skills upgrade: design systems, agile workflows, client onboarding
+  - role: direct relationship with customers 
 
 - **solutions consultant**
   - @digitalworkforce, type: vc-funded scaleup professional services
   - tools: blue prism
   - skills upgrade: project management, security, devops
-  - role: implementing robotic process automation workflows for the healthcare sector.
+  - role: implementing robotic process automation workflows mainly for healthcare providers
  
 - **analyst**
   - company: @accelerando, type: startup advisory partnership
@@ -66,9 +66,14 @@ brainstorm.
 - **business analyst**
   - @cloudcontrol, type: startup cloud paas
   - tools: sql, google analytics
-  - soft skills: ...
+  - skills upgrade: investor reporting, financial controlling
   - startup neobank(@holvi)
   - publicly listed services company(@securitas)
+ 
+- **accountant**
+-  @securitas, type: public company
+-  tools: enterprise resource planning-system
+-  skills upgrade: working capital management, treasury functions
 
 
 # educations
@@ -85,7 +90,7 @@ brainstorm.
 
 ## to do:
 - double degree in **M.Sc. Management** & **M.Sc. Software Engineering** - estimated: 2026
-  - thesis topic area: programmable companies
+  - thesis topic intrests: programmable companies, 
 
 # Other info
 
