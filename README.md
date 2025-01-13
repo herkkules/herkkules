@@ -12,7 +12,7 @@
 - market analysis
 - company structures
 - shell companies
-
+---
 - **Preferred way of working**
   - Project scope: 1 month
   - Deliverable: markdown, git repository
