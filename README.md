@@ -13,7 +13,6 @@ to smooth those out with my imperfections.
 
 - i am currently working on my startup(shh!)
 - i work remotely as a digital nomad
-- 
 
 **things i can help you with**:
 - we stretch the runway with working capital hacks for my friends startup
