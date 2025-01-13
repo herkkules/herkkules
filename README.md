@@ -13,9 +13,9 @@
 - company structures
 - shell companies
 
-## preferred ways of working
-- scope: 1 month
-- deliverable: markdown, git repository
+- **Preferred way of working**
+  - Project scope: 1 month
+  - Deliverable: markdown, git repository
 
 
 # Experience:
