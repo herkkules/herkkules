@@ -67,7 +67,7 @@
   - European research university. THE global ranking 107th ([2025](https://www.timeshighereducation.com/world-university-rankings/university-helsinki)).
 
 ## To do:
-- Double degree in **M.Sc. Management** & **M.Sc. Software Engineering** - Estimated: 2026
+- Double degree in **M.Sc. Management** & **M.Sc. Software Engineering** - estimated: 2026
   - Thesis topic area: agentic capital governance
 
 # Other
