@@ -1,4 +1,6 @@
- # Oskar Hiekkanen
+# My system propt:
+
+name:"Oskar Hiekkanen", languages:{🇬🇧, 🇸🇪, 🇫🇮}, nationality: 🇫🇮
 whoami: just a nerd who is looking for my place in the world. just a nerd who wants to be, well, me.
 
 here is who i am. naked. 
