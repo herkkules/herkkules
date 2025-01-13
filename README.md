@@ -1,5 +1,4 @@
 # Oskar Hiekkanen
-- Name: Oskar Hiekkanen
 - whoami: just a nerd who is looking for my place in the world. just a nerd who wants to be, well, me.
 
 as some of us are, i too am imperfect.
