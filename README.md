@@ -69,17 +69,17 @@ brainstorm.
 
 ## done:
 - **B.Sc. in Financial Economics**, Hanken School of Economics - completed: 2018
-  - Thesis topic: *Valuation of early-movers vs late-movers in an IPO window*
-  - European business school. FT global ranking 57th ([2024](https://rankings.ft.com/schools/498/hanken-school-of-economics/rankings/2961/masters-in-management-2024/ranking-data)). Exchange semester at Sogang University, Seoul.
+  - thesis topic: *Valuation of early-movers vs late-movers in an IPO window*
+  - european business school. FT global ranking 57th ([2024](https://rankings.ft.com/schools/498/hanken-school-of-economics/rankings/2961/masters-in-management-2024/ranking-data)). Exchange semester at Sogang University, Seoul.
 
 ## doing:
 - **B.Sc. in Computer Science**, University of Helsinki - estimated: 2025
-  - Thesis topic area: business data structures
-  - European research university. THE global ranking 107th ([2025](https://www.timeshighereducation.com/world-university-rankings/university-helsinki)).
+  - thesis topic area: business data structures
+  - european research university. THE global ranking 107th ([2025](https://www.timeshighereducation.com/world-university-rankings/university-helsinki)).
 
 ## to do:
-- Double degree in **M.Sc. Management** & **M.Sc. Software Engineering** - estimated: 2026
-  - Thesis topic area: company as code
+- double degree in **M.Sc. Management** & **M.Sc. Software Engineering** - estimated: 2026
+  - thesis topic area: company as code
 
 # Other info
 
