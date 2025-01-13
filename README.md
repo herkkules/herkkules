@@ -1,10 +1,10 @@
 # TLDR
 - Name: Oskar Hiekkanen
-- whoami: finance strategist, nerd.
-- availability: now, globally. base: toronto.
+- Description: finance strategist, nerd.
+- Availability: now, globally. base: toronto.
 
 ***
-# services
+# Services
 - spinouts
 - securitisation of digital business models
 - commercial due diligence
