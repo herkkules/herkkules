@@ -64,7 +64,7 @@
 - notes: top 1% global business school. FT world ranking 57th (2024). exchange at sogang university, seoul.
 
 ## in progress:
-- b.sc. computer science, university of helsinki - estimated: 2025
+- b.sc. computer science, [@universityofhelsinki](https://github.com/Universityofhelsinki) - estimated: 2025
 - thesis topic: business data structures
 - notes: top 1% global research university. THE world ranking 107th (2024).
 
