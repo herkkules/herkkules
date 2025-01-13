@@ -16,7 +16,7 @@ while i have my strengths,
 to smooth those out with my imperfections. 
 
 - i am currently working on my startup(shh!)
-- i work remotely as a digital nomad
+- i work remotely as a digital nomad. i will come to you when necessary.
 
 **things i can help you with**:
 - we stretch the runway with working capital hacks for my friends startup
