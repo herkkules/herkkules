@@ -19,8 +19,8 @@ to smooth those out with my imperfections.
 - i work remotely as a digital nomad. i will come to you when necessary.
 
 
-
-**things i can help you with**:
+*
+*things i can help you with**:
 - we stretch the runway with working capital hacks for my friends startup
 - we can establish a company from your github project
 - we can prep you for nerdy deep dives with investors
@@ -32,9 +32,10 @@ brainstorm.
 ... my american friend said that you guys are good at figuring something out.
 
 - what i can do immediately?
- - interim product owner(someone left the company, need for someone to fill in until long term solution is found)
- - eventstorming workshops
- - market research(face-to-face user studies, commercial due diligence, ...
+   - prompt engineering(...
+   - interim product owner(someone left the company, need for someone to fill in until long term solution is found)
+   - eventstorming workshops(...
+   - market research(face-to-face user studies, commercial due diligence, ...
  - product analysis
  - investor presentations
  - design-to-dev workflow improvements
@@ -49,14 +50,14 @@ brainstorm.
 
 - **product owner**
   - @visma, type: multinational fintech saas
-  - tech: ...
-  - tools: jira, productboard, 
+  - tech: 
+  - tools: jira, productboard, python notebooks
   - skills upgrade: operating at scale, stakeholder management, systematic product design
   - role: building a new innovation team to build the future of a mature product at scale
 
 - **product owner**
   - @yonoton, type: angel-funded fintech scaleup mobile saas
-  - tech: react native, firebase, 
+  - tech: react native, firebase, redis, 
   - tools: figma, asana, slack
   - skills upgrade: design systems, agile workflows, client onboarding
   - role: direct relationship with customers 
