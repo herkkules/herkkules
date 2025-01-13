@@ -21,7 +21,7 @@
 # Experience:
 
 - **angel investment partnership**
-  - project: securitisation of a digital technology service,
+  - project: securitisation of a digital technology service
   - role: ...,
   - responsibilities: ... 
 
