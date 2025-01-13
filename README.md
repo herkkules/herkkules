@@ -9,7 +9,7 @@
 ***
 # services
 - spinouts
-- securitization of digital business models
+- securitisatiom of digital business models
 - commercial due diligence
 - business plans
 
