@@ -60,7 +60,7 @@
 # education
 
 ## done:
-- B.Sc. in Financial Economics, [Hanken School of Economics](https://hanken.fi) - completed: 2018
+- B.Sc. in Financial Economics, Hanken School of Economics - completed: 2018
 - Thesis topic: Valuation of early-movers vs late-movers in an ipo window
 - Notes: Top 1% global business school. FT world ranking 57th ([2024](https://rankings.ft.com/schools/498/hanken-school-of-economics/rankings/2961/masters-in-management-2024/ranking-data)). Exchange semester at [Sogang University](https://sogang.ac.kr), Seoul.
 
