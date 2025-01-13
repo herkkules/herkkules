@@ -50,7 +50,7 @@
   - role: ...
   - responsibilities: ...
 
-- **Other**
+- **other**
   - startup cloud paas(@cloudcontrol)
   - startup neobank(@holvi)
   - publicly listed services company(@securitas)
