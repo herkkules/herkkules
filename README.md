@@ -75,8 +75,6 @@ brainstorm.
   - @cloudcontrol, type: startup cloud paas
   - tools: sql, google analytics
   - skills upgrade: investor reporting, financial controlling
-  - startup neobank(@holvi)
-  - publicly listed services company(@securitas)
  
 - **accountant**
 -  @securitas, type: public company
