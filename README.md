@@ -20,7 +20,7 @@
 
 # Experience:
 
-- **venture investment partnership**
+- **angel investment partnership**
   - project: securitisation of a digital technology service,
   - role: ...,
   - responsibilities: ... 
