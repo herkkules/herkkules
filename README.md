@@ -38,13 +38,13 @@
   - responsibilities: ... 
 
 - **vc-funded scaleup professional services**
-  - @digitalworkforce, company size: medium
+  - company: @digitalworkforce, company size: medium
   - job title: solutions consultant
   - role: solutions consultant
   - responsibilities: ... 
 
 - **startup advisory partnership**
-  - @accelerando, size: small
+  - company: @accelerando, size: small
   - job title: analyst
   - role: ...
   - responsibilities: ...
@@ -52,6 +52,7 @@
 - **Other**
   - startup cloud paas(@cloudcontrol)
   - startup neobank(@holvi)
+  - publicly listed services company(@securitas)
 
 
 # Education
