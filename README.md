@@ -1,7 +1,7 @@
  # Oskar Hiekkanen
 whoami: just a nerd who is looking for my place in the world. just a nerd who wants to be, well, me.
 
-here is who i am. naked. feed me to your favorite ai model.
+here is who i am. naked. 
 
 
 ---
