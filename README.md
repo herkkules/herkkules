@@ -12,6 +12,12 @@
 - securitisation of digital business models
 - commercial due diligence
 - business plans
+- pitchbooks
+- market analysis
+- company structures
+- shell companies
+
+
 
 ***
 
@@ -44,7 +50,7 @@
 - @accelerando, size: small
 - job title: analyst
 - role: ...
-- responsibilities: ...}
+- responsibilities: ...
 
 ## other
 - startup cloud paas(@cloudcontrol)
