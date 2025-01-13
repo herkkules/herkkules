@@ -30,8 +30,9 @@ brainstorm.
 ... my american friend said that you guys are good at figuring something out.
 
 - what i can do immediately?
-   - interim product owner(someone left the company, need for someone to fill in until long term solution is found, ...)
-   - market research(face-to-face user studies, commercial due diligence, ...
+   - interim product leadership(someone left the company, need for someone to fill in until long term solution is found, ...)
+   - market research(boots on the ground anywhere in the world, commercial due diligence, ...
+   - fintech-hacks for non-fintech companies
 
 - what im nerding out on:
   - international holding companies
