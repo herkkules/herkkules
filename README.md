@@ -29,7 +29,7 @@
 - responsibilities: ... 
 
 ## angel-funded fintech scaleup mobile saas
-- company: @poweredbyyonoton, company size: small
+- company: @yonoton, company size: small
 - job title: product owner,
 - role: ...,
 - responsibilities: ... 
