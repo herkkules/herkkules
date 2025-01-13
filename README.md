@@ -59,19 +59,19 @@
 ***
 # education
 
-## done:
-- B.Sc. in Financial Economics, Hanken School of Economics - completed: 2018
+## Done:
+- **B.Sc. in Financial Economics**, Hanken School of Economics - completed: 2018
 - Thesis topic: *Valuation of early-movers vs late-movers in an IPO window*
 - Notes: European business school. FT global ranking 57th ([2024](https://rankings.ft.com/schools/498/hanken-school-of-economics/rankings/2961/masters-in-management-2024/ranking-data)). Exchange semester at Sogang University, Seoul.
 
-## in progress:
-- B.Sc. in Computer Science, [@UniversityofHelsinki](https://github.com/UniversityofHelsinki) - estimated: 2025
-- Thesis topic: business data structures
+## In progress:
+- **B.Sc. in Computer Science**, [@UniversityofHelsinki](https://github.com/UniversityofHelsinki) - estimated: 2025
+- Thesis topic area: business data structures
 - notes: European research university. THE global ranking 107th ([2025](https://www.timeshighereducation.com/world-university-rankings/university-helsinki)).
 
-## to do:
-- double degree: m.sc. management & m.sc. software engineering - estimated: 2026
-- thesis topic area: agentic capital governance
+## To do:
+- Double degree: **M.Sc. Management** & **M.Sc. Software Engineering** - Estimated: 2026
+- Thesis topic area: agentic capital governance
 
 ***
 
