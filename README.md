@@ -30,12 +30,8 @@ brainstorm.
 ... my american friend said that you guys are good at figuring something out.
 
 - what i can do immediately?
-   - prompt engineering(...
    - interim product owner(someone left the company, need for someone to fill in until long term solution is found, ...)
-   - eventstorming workshops(...
    - market research(face-to-face user studies, commercial due diligence, ...
-- investor presentations
-- design-to-developer workflow integration
 
 - what im nerding out on:
   - international holding companies
