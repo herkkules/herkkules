@@ -1,7 +1,7 @@
 # Oskar Hiekkanen
 whoami: just a nerd who is looking for my place in the world. just a nerd who wants to be, well, me.
 
-here is who i am. feed me to your favorite supermodel.
+here is who i am. feed me to your favorite ai model.
 
 
 ---
@@ -28,6 +28,10 @@ to smooth those out with my imperfections.
 brainstorm. 
 
 ... my american friend said that you guys are good at figuring something out.
+
+- what im nerding out on:
+  - holding companies
+  - community capitalism
 
 # experience:
 
