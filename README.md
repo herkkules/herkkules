@@ -55,13 +55,13 @@ brainstorm.
   - @digitalworkforce, type: vc-funded scaleup professional services
   - tools: blue prism
   - skills upgrade: project management, security, devops
-  - role: implementing robotic process automation workflows mainly for healthcare providers
+  - role: implementing robotic process automation workflows for healthcare sector clients
  
 - **analyst**
   - company: @accelerando, type: startup advisory partnership
   - tools: spreadsheets
   - skills upgrade: presentations
-  - role: freelance analyst hired for due diligence, market analysis, booking meetings
+  - role: freelance analyst hired for market analysis, booking meetings, data entry, etc...
 
 - **business analyst**
   - @cloudcontrol, type: startup cloud paas
