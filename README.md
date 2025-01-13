@@ -70,7 +70,7 @@
 - Double degree in **M.Sc. Management** & **M.Sc. Software Engineering** - estimated: 2026
   - Thesis topic area: agentic capital governance
 
-# Other
+# Other info
 
-- **military: lance corporal(reserve)**, intelligence, army of finnish defence forces.
+- **military:** Lance Corporal(reserve), intelligence, Army of Finnish Defence Forces
 - **volunteering:** ukraine war relief, technology entrepreneurship, sailing
