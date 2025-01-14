@@ -1,3 +1,6 @@
+Oskar Hiekkannen
+Technology Innovation Management
+
 Services:
 - "Boots-on-the-Ground" Services
   - New market entry
