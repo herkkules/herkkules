@@ -1,4 +1,5 @@
 # Practical Innovation. Measurable Results. 
+> Based in Toronto and available globally, I specialize in solving high-impact business problems in product development organizations. My expertise lies in blending meticulous design and craftsmanship with boots-on-the-ground execution.
 
 
 I solve **high-impact** business challenges in product development organisations.
