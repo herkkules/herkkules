@@ -1,7 +1,7 @@
 # Practical Innovation. Measurable Results. 
 
 
-I solve **high-impact** business challenges in **product development organisations**.
+I solve **high-impact** business challenges in product development organisations.
 
 
 - **"Boots-on-the-Ground" Services**
