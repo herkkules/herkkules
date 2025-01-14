@@ -105,27 +105,20 @@ I solve **high-impact** business challenges in **product development organisatio
 ## Education
 
 ### B.Sc. in Financial Economics  
-**Completion:** 2018
+- **Hanken School of Economics - 2018**
+- **Thesis:** Valuation of early-movers against late-movers in Initial Public Offerings
 
-**Institution:** Hanken School of Economics. Globally recognized European business school, 57th for Masters in Management (Financial Times, 2024).
-
-**Thesis:** Valuation of early-movers against late-movers in Initial Public Offerings
-
+Globally recognized European business school, 57th in Masters in Management (Financial Times, 2024).
 
 ### B.Sc. in Computer Science 
-**Estimated Completion:** 2025  
+- **University of Helsinki - 2025** 
+- **Thesis:**  Data Structures in Venture Operations
 
-**Institution:** University of Helsinki. Globally recognized European research university, 107th for World University Ranking (Times Higher Education, 2025).    
+Globally recognized European research university, 107th in World University Ranking (Times Higher Education, 2025).    
 
-**Thesis:**  Data Structures in Venture Operations
-
-
-### M.Sc. in Management & M.Sc. in Software Engineering
-**Estimated Completion:** 2026  
-
+### M.Sc. in Management & M.Sc. in Software Engineering - 2026  
 - **Thesis:** Digital Shell Company Structures
 
----
 
 ## Volunteering  
 
