@@ -91,7 +91,7 @@ I solve **high-impact** business challenges in **product development organisatio
 ### Lance Corporal (Reserve), Intelligence  
 **Finnish Defence Forces**  
 
-- **Mission-Critical Operations**: Served in a Dispersed Intelligence Operations
+- **Mission-Critical Operations**: Served in a Dispersed Operations Unit
 
 - **Proven Leadership**: Promoted with distinction
 
