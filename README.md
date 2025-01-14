@@ -1,4 +1,7 @@
 # Practical Innovation. Measurable Results. 
+
+I solve high-impact business problems in product organisations.
+
 - "Boots-on-the-Ground" Services
   - New market entry
   - Due Diligence
