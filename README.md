@@ -25,7 +25,7 @@ I solve **high-impact** business challenges in **product development organisatio
 
 - **Stakeholder Management**: Ensured alignment among stakeholders, pursuing strategic objectives.  
 
-- **Systematic Product Design**: Implemented product development lifecycle processes to ensure resilience and scalability.
+- **Systematic Product Design**: Implemented product development lifecycle processes to ensure alignment and scalability.
 
 
 ### Product Owner, Powered by Yonoton
