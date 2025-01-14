@@ -5,9 +5,11 @@ I solve **high-impact** business challenges in **product development organisatio
 - **"Boots-on-the-Ground" Services**
   - New market entry
   - Due Diligence
+
 - **Interim Product Leadership**
   - Transition period
   - Supporting growth
+
 - **Complex Information Systems Design**
   - Resilient Operations
   - Critical Information Management
@@ -94,32 +96,33 @@ I solve **high-impact** business challenges in **product development organisatio
 
 ## Education
 
-### Bachelor of Science in Financial Economics  
-**Hanken School of Economics** (2014–2018)  
-- **Thesis**: *Valuation of early-movers vs late-movers in an IPO window.*  
-- **Key Highlights**:  
-  - Completed coursework at a European business school ranked FT Global 57th (2024).  
-  - Participated in an exchange semester at Sogang University, Seoul.  
+### B.Sc. in Financial Economics  
+**Institution:** Hanken School of Economics  
+**Completion:** 2018  
+
+- **Thesis:** Explored the comparative valuation of early-movers versus late-movers during IPO windows, providing insights into strategic market entry timing. 
+- **Academic Rigour:** Attended a leading European business school, ranked 57th globally by FT in 2024.  
+- **Global Exposure:** Completed an exchange semester at Sogang University in Seoul, deepening cross-cultural and global business acumen.  
+
+
+### B.Sc. in Computer Science  
+**Institution:** University of Helsinki  
+**Estimated Completion:** 2025  
+
+- **Thesis:** Investigates digital venture data structures, emphasizing the role of innovative frameworks in venture scaling.  
+- **Research Institution:** Part of a globally recognized European university, ranked 107th by THE in 2025.  
+
+### M.Sc. in Management & M.Sc. in Software Engineering  
+**Estimated Completion:** 2026  
+
+- **Thesis:** Digital shell companies for community-participation in capital investments
 
 ---
 
-### Bachelor of Science in Computer Science  
-**University of Helsinki** (Expected 2025)  
-- **Thesis**: *Digital venture data structures.*  
-- **Key Highlights**:  
-  - Studying at a European research university ranked THE Global 107th (2025).  
-  - Coursework includes advanced programming, distributed systems, and data science.  
+## Volunteering  
 
----
+- **Ukraine War Relief:** Supported humanitarian efforts through coordination and resource mobilization.
+ 
+- **Technology Entrepreneurship:** Mentored startups and contributed to fostering innovation ecosystems.  
 
-### Master of Science in Management & Master of Science in Software Engineering  
-**Dual Degree** (Expected 2026)  
-- **Thesis**: *Digital shell companies as a community financing technology.*  
-- **Key Highlights**:  
-  - Dual-degree program integrating management and technical expertise.  
-  - Focused on strategic leadership and advanced software engineering principles.  
-
-
-## Volunteering: 
-
-topics: ukraine war relief, technology entrepreneurship, sailing
+- **Sailing:** Engaged in community-driven initiatives within the sailing community, promoting teamwork and leadership.  
