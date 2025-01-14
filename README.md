@@ -45,13 +45,13 @@ tools:  accounting systems
 skills: enterprise resource planning, global operations
 role:   financial operations business unit responsibility.
 
-- title:  lance corporal(reserve), @puolustusvoimat, intelligence, Finnish Defence Forces
+- title:  lance corporal(reserve), intelligence, Finnish Defence Forces
 tools:  classified
 skills: mission-critical systems
 role:   dispersed operations command. promoted with distinction.
 
 
-*Education:
+# Education:
 
 degree:   B.Sc. in Financial Economics, Hanken School of Economics - completed 2018.
 thesis:   Valuation of early-movers vs late-movers in an IPO window
@@ -65,6 +65,6 @@ degrees:  M.Sc. Management & M.Sc. Software Engineering - double degree, estimat
 thesis:   digital shell companies as a community financing technology
 notes:    dual-degree
 
-*Volunteering: 
+# Volunteering: 
 
 topics: ukraine war relief, technology entrepreneurship, sailing
