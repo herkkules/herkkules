@@ -16,8 +16,8 @@ I solve **high-impact** business challenges in **product development organisatio
 
 ## Professional Experience:
 
-### Product Owner  
-**Visma - Multinational FinTech SaaS** (1 year) 
+### Product Owner, Visma  
+**Multinational FinTech SaaS** (1 year) 
 
 - **Establishment of corporate innovation unit**: Led the creation of a corporate innovation unit, providing a structured foundation for advanced initiatives and sustained competitiveness.
   
@@ -28,8 +28,8 @@ I solve **high-impact** business challenges in **product development organisatio
 - **Systematic Product Design**: Implemented product development lifecycle processes to ensure resilience and scalability.
 
 
-### Product Owner  
-**Yonoton - Mobile SaaS Startup** (2 years)  
+### Product Owner, Powered by Yonoton
+**Mobile SaaS Startup** (2 years)  
 
 - **Customer Relationship Management**: Maintained and strengthened direct client relationships, ensuring high levels of satisfaction and retention.  
 
@@ -40,8 +40,8 @@ I solve **high-impact** business challenges in **product development organisatio
 - **Tool Expertise**: Utilized DevOps practices and application frameworks to deliver robust and scalable solutions.
 
 
-### Solutions Consultant  
-**Digital Workforce - Series B Professional Services** (1 year)  
+### Solutions Consultant, Digital Workforce  
+**Series B Professional Services** (1 year)
 
 - **Robotic Process Automation**: Implemented RPA systems for clients in regulated industries, ensuring operational efficiency and compliance.
   
@@ -64,8 +64,8 @@ I solve **high-impact** business challenges in **product development organisatio
 - **Presentation Development**: Designed high-impact presentations for stakeholders and decision-makers.
 
 
-### Business Analyst  
-**CloudControl - Cloud Technology Startup**  
+### Business Analyst, CloudControl  
+**Cloud Technology Startup**  
 
 - **Financial Operations**: Developed financial reporting processes and identified growth factors.  
 
@@ -74,8 +74,8 @@ I solve **high-impact** business challenges in **product development organisatio
 - **Data and Analytics**: Leveraged database technologies and web analytics for operational enhancements.  
 
 
-### Accountant  
-**Securitas - Security-Sector Public Company**
+### Accountant, Securitas  
+**Security-Sector Public Company**
 
 - **Business Unit Financial Oversight**: Managed financial operations for a business unit within a global organization.  
 
