@@ -12,8 +12,6 @@ I solve high-impact business challenges in product development organisations.
   - Resilient Operations
   - Critical Information Management
 
-## Experience:
-
 ## Professional Experience
 
 ### Product Owner, Visma  
