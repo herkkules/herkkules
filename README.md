@@ -16,6 +16,7 @@ I solve **high-impact** business challenges in **product development organisatio
   - Resilient Operations
   - Critical Information Management
 
+
 ## Professional Experience:
 
 
@@ -100,6 +101,7 @@ I solve **high-impact** business challenges in **product development organisatio
 - **Tactical Execution**: Managed dispersed operations and critical communications infrastructure.
  
 - **Recognised Leadership**: Earned promotion with distinction.
+
 
 
 ## Education
