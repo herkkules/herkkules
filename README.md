@@ -67,13 +67,11 @@ I solve **high-impact** business challenges in **product development organisatio
 ### Business Analyst  
 **CloudControl - Cloud Technology Startup**  
 
-- **Financial Operations Management**: Developed and optimized financial reporting processes to ensure accuracy and efficiency.  
+- **Financial Operations**: Developed financial reporting processes and identified growth factors.  
 
-- **Investor Reporting**: Produced detailed financial reports to support investment decision-making.  
+- **Investor-focused Reporting**: Produced detailed financial reports to support investment decision-making and operational oversight.  
 
-- **Technical Expertise**: Leveraged database technologies and web analytics for operational enhancements.  
-
-- **Strategic Impact**: Streamlined financial workflows, improving resource allocation and decision-making capabilities.
+- **Data and Analytics**: Leveraged database technologies and web analytics for operational enhancements.  
 
 
 ### Accountant  
@@ -81,11 +79,7 @@ I solve **high-impact** business challenges in **product development organisatio
 
 - **Business Unit Financial Oversight**: Managed financial operations for a business unit within a global organization.  
 
-- **Process Optimization**: Enhanced financial workflows through enterprise resource planning systems.  
-
 - **Global Operations**: Coordinated with international teams to ensure compliance with corporate financial standards.  
-
-- **Operational Excellence**: Delivered accurate financial reporting to support global strategic objectives.
 
 
 ### Lance Corporal (Reserve), Intelligence  
@@ -93,7 +87,7 @@ I solve **high-impact** business challenges in **product development organisatio
 
 - **Tactical Execution**: Managed dispersed operations and critical communications.
  
-- **Recognised Leadership**: Earned promotion with distinction for exemplary performance.
+- **Recognised Leadership**: Earned promotion with distinction.
 
 
 ## Education
