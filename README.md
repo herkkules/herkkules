@@ -1,6 +1,6 @@
 # Practical Innovation. Measurable Results. 
 
-I solve high-impact business problems in product organisations.
+I solve high-impact business problems in product development organisations.
 
 - "Boots-on-the-Ground" Services
   - New market entry
