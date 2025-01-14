@@ -1,8 +1,3 @@
-*Name: Oskar Hiekkanen
-- whoami:     High-impact Innovation Management, measurable results. I blend meticulous design and craftsmanship with boots on the ground execution.
-- where:      Based in Toronto. Available globally.
-
-
 Services:
 - "Boots-on-the-Ground" Services
   - New market entry
