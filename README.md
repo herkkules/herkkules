@@ -1,4 +1,4 @@
-# Services:
+# High-Impact Innovation Management:
 - "Boots-on-the-Ground" Services
   - New market entry
   - Due Diligence
@@ -15,7 +15,7 @@ Typical customers:
 - Series B SaaS scaleups: growth support
 - Defense Export: market entry
 
-*Experience:
+# Experience:
 
 title:  product owner, @visma, 1 year, multinational fintech saas
 tech:   distributed systems, machine learning
