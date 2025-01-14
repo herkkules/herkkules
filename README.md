@@ -91,7 +91,7 @@ I solve **high-impact** business challenges in **product development organisatio
 ### Lance Corporal (Reserve), Intelligence  
 **Finnish Defence Forces** (6 months, national conscription) 
 
-- **Tactical Operations**: Managed dispersed communications and mission-critical infrastructure.
+- **Tactical Operations**: Managed dispersed operations and secure infrastructure.
  
 - **Recognised Leadership**: Earned promotion with distinction for exemplary performance.
 
