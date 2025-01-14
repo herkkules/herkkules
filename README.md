@@ -1,7 +1,4 @@
-# Oskar Hiekkanen
-*
-
-Services:
+# Services:
 - "Boots-on-the-Ground" Services
   - New market entry
   - Due Diligence
