@@ -20,32 +20,32 @@ tools:  agile at scale, product lifecycle management
 skills: stakeholder management, systematic product design
 role:   establishment of a corporate innovation unit.
 
-title:  product owner, @yonoton, 2 years, mobile saas startup
+- title:  product owner, @yonoton, 2 years, mobile saas startup
 tools:  scrum, design systems, devops, application frameworks
 skills: client relations, development operations, hardware management
 role:   direct customer relationships.
 
-title:  solutions consultant, @digitalworkforce, 1 year, series b professional services
+- title:  solutions consultant, @digitalworkforce, 1 year, series b professional services
 tools:  robotic process automation
 skills: project management, data management
 role:   implementation of critical systems for healthcare-sector.
 
-title:  project-based analyst, @accelerando, technology business advisor
+- title:  project-based analyst, @accelerando, technology business advisor
 tools:  office tools
 skills: business development, market research, presentation
 role:   contract work for growth capital projects.
 
-title:  business analyst, @cloudcontrol, cloud technology startup
+- title:  business analyst, @cloudcontrol, cloud technology startup
 tools:  database technologies, web analytics
 skills: investor reporting, financial controlling
 role:   built processes for financial operations.
 
-title:  accountant, @securitas, security-sector public company
+- title:  accountant, @securitas, security-sector public company
 tools:  accounting systems
 skills: enterprise resource planning, global operations
 role:   financial operations business unit responsibility.
 
-title:  lance corporal(reserve), @puolustusvoimat, intelligence, Finnish Defence Forces
+- title:  lance corporal(reserve), @puolustusvoimat, intelligence, Finnish Defence Forces
 tools:  classified
 skills: mission-critical systems
 role:   dispersed operations command. promoted with distinction.
