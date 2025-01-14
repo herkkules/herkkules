@@ -1,6 +1,6 @@
 # Practical Innovation. Measurable Results. 
 
-I solve high-impact business problems in product development organisations.
+I solve high-impact business challenges in product development organisations.
 
 - "Boots-on-the-Ground" Services
   - New market entry
@@ -14,41 +14,41 @@ I solve high-impact business problems in product development organisations.
 
 ## Experience:
 
-- title:  product owner, @visma, 1 year, multinational fintech saas
-tech:   distributed systems, machine learning
-tools:  agile at scale, product lifecycle management
-skills: stakeholder management, systematic product design
-role:   establishment of a corporate innovation unit.
+## Professional Experience
 
-- title:  product owner, @yonoton, 2 years, mobile saas startup
-tools:  scrum, design systems, devops, application frameworks
-skills: client relations, development operations, hardware management
-role:   direct customer relationships.
+### Product Owner, Visma  
+**Multinational FinTech SaaS**  (1 year)
+- **Establishment of Corporate Innovation Unit**: Led the creation of a corporate innovation unit, providing a structured foundation for advanced initiatives and sustained competitiveness.  
+- **Advanced Technologies**: Directed initiatives involving distributed systems and machine learning to deliver scalable and data-driven solutions.  
+- **Stakeholder Management**: Ensured alignment among cross-functional stakeholders, achieving strategic objectives.  
+- **Systematic Product Design**: Implemented product lifecycle management to ensure resilience and scalability.
 
-- title:  solutions consultant, @digitalworkforce, 1 year, series b professional services
-tools:  robotic process automation
-skills: project management, data management
-role:   implementation of critical systems for healthcare-sector.
+---
 
-- title:  project-based analyst, @accelerando, technology business advisor
-tools:  office tools
-skills: business development, market research, presentation
-role:   contract work for growth capital projects.
+### Product Owner, Yonoton  
+**Mobile SaaS Startup** (2 years)  
+- **Tools**: Scrum, design systems, DevOps, application frameworks.  
+- **Skills**: Client relations, development operations, hardware management.  
+- **Role**: Managed direct customer relationships and supported product development operations.
 
-- title:  business analyst, @cloudcontrol, cloud technology startup
-tools:  database technologies, web analytics
-skills: investor reporting, financial controlling
-role:   built processes for financial operations.
+---
 
-- title:  accountant, @securitas, security-sector public company
-tools:  accounting systems
-skills: enterprise resource planning, global operations
-role:   financial operations business unit responsibility.
+### Solutions Consultant, Digital Workforce  
+**Series B Professional Services** (1 year)  
+- **Tools**: Robotic process automation.  
+- **Skills**: Project management, data management.  
+- **Role**: Implemented critical systems for healthcare-sector clients, ensuring compliance and operational integrity.
 
-- title:  lance corporal(reserve), intelligence, Finnish Defence Forces
-tools:  classified
-skills: mission-critical systems
-role:   dispersed operations command. promoted with distinction.
+---
+
+### Project-Based Analyst, Accelerando  
+**Technology Business Advisor**  
+- **Tools**: Office tools.  
+- **Skills**: Business development, market research, presentation.  
+- **Role**: Delivered contract work for growth capital projects, supporting technology business advisory services.
+
+-
+
 
 
 ## Education:
