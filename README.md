@@ -89,15 +89,12 @@
 
 
 
-## Military Service
-
-
 ### Lance Corporal (Reserve), Intelligence  
 **Finnish Defence Forces** (6 months, national conscription) 
 
-- **Tactical Execution**: Managed dispersed operations and critical communications infrastructure.
+> **Tactical Execution**: Managed dispersed operations and critical communications infrastructure.
  
-- **Recognised Leadership**: Earned promotion with distinction.
+> **Recognised Leadership**: Earned promotion with distinction.
 
 
 
