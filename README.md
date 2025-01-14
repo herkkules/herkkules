@@ -105,23 +105,20 @@ I solve **high-impact** business challenges in **product development organisatio
 ## Education
 
 ### B.Sc. in Financial Economics  
-**Institution:** Hanken School of Economics  
-**Completion:** 2018  
+**Completion:** 2018
 
-- **Thesis:** Valuation of early-movers against late-movers in IPO windows
+**Institution:** Hanken School of Economics. Globally recognized European business school, 57th for Masters in Management (Financial Times, 2024).
 
-- **Academic Rigour:** Globally recognized European business school, ranked 57th by FT for Management in 2024.
-
-- **Global Exposure:** Completed an exchange semester at Sogang University in Seoul, deepening cross-cultural and global business acumen.  
+**Thesis:** Valuation of early-movers against late-movers in Initial Public Offerings
 
 
-### B.Sc. in Computer Science  
-**Institution:** University of Helsinki  
+### B.Sc. in Computer Science 
 **Estimated Completion:** 2025  
 
-- **Thesis:**  Data Structures in Venture Operations
+**Institution:** University of Helsinki. Globally recognized European research university, 107th for World University Ranking (Times Higher Education, 2025).    
 
-- **Academic Rigour:** Globally recognized European research university, ranked 107th by THE in 2025.  
+**Thesis:**  Data Structures in Venture Operations
+
 
 ### M.Sc. in Management & M.Sc. in Software Engineering
 **Estimated Completion:** 2026  
