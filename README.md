@@ -100,8 +100,10 @@ I solve **high-impact** business challenges in **product development organisatio
 **Institution:** Hanken School of Economics  
 **Completion:** 2018  
 
-- **Thesis:** Explored the comparative valuation of early-movers versus late-movers during IPO windows, providing insights into strategic market entry timing. 
-- **Academic Rigour:** Attended a leading European business school, ranked 57th globally by FT in 2024.  
+- **Thesis:** Valuation of early-movers against late-movers in IPO windows
+
+- **Academic Rigour:** Globally recognized European business school, ranked 57th by FT for Management in 2024.
+
 - **Global Exposure:** Completed an exchange semester at Sogang University in Seoul, deepening cross-cultural and global business acumen.  
 
 
@@ -109,10 +111,11 @@ I solve **high-impact** business challenges in **product development organisatio
 **Institution:** University of Helsinki  
 **Estimated Completion:** 2025  
 
-- **Thesis:** Investigates digital venture data structures, emphasizing the role of innovative frameworks in venture scaling.  
-- **Research Institution:** Part of a globally recognized European university, ranked 107th by THE in 2025.  
+- **Thesis:**  Data Structures in Venture Operations
 
-### M.Sc. in Management & M.Sc. in Software Engineering  
+- **Academic Rigour:** Globally recognized European research university, ranked 107th by THE in 2025.  
+
+### M.Sc. in Management & M.Sc. in Software Engineering
 **Estimated Completion:** 2026  
 
 - **Thesis:** Digital shell companies for community participation in capital investments
