@@ -1,4 +1,4 @@
-# High-Impact Innovation Management
+# Practical Innovation. Measurable Results. 
 - "Boots-on-the-Ground" Services
   - New market entry
   - Due Diligence
