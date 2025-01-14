@@ -20,72 +20,72 @@
 ### Product Owner, Visma  
 **Multinational FinTech SaaS** (1 year) 
 
-- **Corporate Innovation Unit**: Led the creation of a corporate innovation unit, providing a structured foundation for advanced initiatives and sustained competitiveness.
+>  **Corporate Innovation Unit**: Led the creation of a corporate innovation unit, providing a structured foundation for advanced initiatives and sustained competitiveness.
   
-- **Technology Experimentation**: Directed initiatives involving distributed systems and machine learning to deliver scalable and data-driven systems.
+> **Technology Experimentation**: Directed initiatives involving distributed systems and machine learning to deliver scalable and data-driven systems.
 
-- **Stakeholder Management**: Ensured alignment among stakeholders, pursuing strategic objectives.  
+> **Stakeholder Management**: Ensured alignment among stakeholders, pursuing strategic objectives.  
 
-- **Systematic Product Design**: Implemented product development lifecycle processes to ensure alignment and scalability.
+>  **Systematic Product Design**: Implemented product development lifecycle processes to ensure alignment and scalability.
 
 
 
 ### Product Owner, Powered by Yonoton
 **Mobile SaaS Startup** (2 years)  
 
-- **Customer Relationship Management**: Maintained and strengthened direct client relationships, ensuring high levels of satisfaction and retention.  
+> **Customer Relationship Management**: Maintained and strengthened direct client relationships, ensuring high levels of satisfaction and retention.  
 
-- **Hardware Operations**: Development of end-to-end operations digital services.  
+> **Hardware Operations**: Development of end-to-end operations digital services.  
   
-- **Agile Product Development**: Applied Scrum and Design Systems to drive iterative improvements.  
+> **Agile Product Development**: Applied Scrum and Design Systems to drive iterative improvements.  
 
-- **Tool Expertise**: Utilized DevOps practices and application frameworks to deliver robust and scalable solutions.
+> **Tool Expertise**: Utilized DevOps practices and application frameworks to deliver robust and scalable solutions.
 
 
 
 ### Solutions Consultant, Digital Workforce  
 **Series B Professional Services** (1 year)
 
-- **Robotic Process Automation**: Implemented RPA systems for clients in regulated industries, ensuring operational efficiency and compliance.
+> **Robotic Process Automation**: Implemented RPA systems for clients in regulated industries, ensuring operational efficiency and compliance.
   
-- **Project Management**: Managed end-to-end delivery of automation solutions, adhering to strict deadlines and quality standards.  
+> **Project Management**: Managed end-to-end delivery of automation solutions, adhering to strict deadlines and quality standards.  
 
-- **Data Management**: Developed and maintained data-driven processes to ensure system integrity and client satisfaction.  
+> **Data Management**: Developed and maintained data-driven processes to ensure system integrity and client satisfaction.  
 
-- **Healthcare Sector Expertise**: Delivered tailored solutions for healthcare clients, addressing unique operational challenges.
+> **Healthcare Sector Expertise**: Delivered tailored solutions for healthcare clients, addressing unique operational challenges.
 
 
 
 ### Project Analyst, Accelerando  
 **Technology Business Advisor**  
 
-- **Growth Capital Projects**: Provided analytical support for technology-sector growth capital initiatives.
+> **Growth Capital Projects**: Provided analytical support for technology-sector growth capital initiatives.
 
-- **Market Research**: Conducted comprehensive research to identify opportunities and competitive positioning.  
+> **Market Research**: Conducted comprehensive research to identify opportunities and competitive positioning.  
 
-- **Business Development**: Assisted clients in crafting actionable strategies to achieve investment objectives.  
+> **Business Development**: Assisted clients in crafting actionable strategies to achieve investment objectives.  
 
-- **Presentation Development**: Designed high-impact presentations for stakeholders and decision-makers.
+> **Presentation Development**: Designed high-impact presentations for stakeholders and decision-makers.
 
 
 
 ### Business Analyst, CloudControl  
 **Cloud Technology Startup**  
 
-- **Financial Operations**: Developed financial reporting processes and identified growth factors.  
+> **Financial Operations**: Developed financial reporting processes and identified growth factors.  
 
-- **Investor-focused Reporting**: Produced detailed financial reports to support investment decision-making and operational oversight.  
+> **Investor-focused Reporting**: Produced detailed financial reports to support investment decision-making and operational oversight.  
 
-- **Data and Analytics**: Leveraged database technologies and web analytics for operational enhancements.  
+> **Data and Analytics**: Leveraged database technologies and web analytics for operational enhancements.  
 
 
 
 ### Accountant, Securitas  
 **Security-Sector Public Company**
 
-- **Business Unit Financial Oversight**: Managed financial operations for a business unit within a global organization.  
+> **Business Unit Financial Oversight**: Managed financial operations for a business unit within a global organization.  
 
-- **Global Operations**: Coordinated with international teams to ensure compliance with corporate financial standards.  
+> **Global Operations**: Coordinated with international teams to ensure compliance with corporate financial standards.  
 
 
 
