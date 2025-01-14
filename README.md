@@ -1,5 +1,5 @@
-#Oskar Hiekkannen
-##Technology Innovation Management
+# Oskar Hiekkannen
+## Technology Innovation Management
 
 Services:
 - "Boots-on-the-Ground" Services
