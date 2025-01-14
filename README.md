@@ -103,20 +103,21 @@
 
 ### B.Sc. in Financial Economics
 **Hanken School of Economics**, Finland - 2018
-- **Thesis:** Valuation of early-movers against late-movers in Initial Public Offerings
+- **Thesis:** *Valuation of early-movers against late-movers in Initial Public Offerings*
 
 > Globally recognized European business school, 57th in Masters in Management (Financial Times, 2024).
 
 
 ### B.Sc. in Computer Science
 **University of Helsinki**, Finland - 2025
-- **Thesis:**  Data Structures in Venture Operations
+- **Thesis:**  *Data Structures in Venture Operations*
 
 > Globally recognized European research university, 107th in World University Ranking (Times Higher Education, 2025).    
 
 
-### M.Sc. in Management & M.Sc. in Software Engineering - 2026  
-- **Thesis:** Digital Shell Company Structures
+### M.Sc. in Management & M.Sc. in Software Engineering  
+- **Hanken School of Economics & University of Helsinki**
+- **Thesis:** *Digital Shell Company Structures*
 
 > An interdisciplinary thesis project bridging financial engineering and software development.
 
