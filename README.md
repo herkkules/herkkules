@@ -1,6 +1,8 @@
 # Practical Innovation. Measurable Results. 
 
+
 I solve **high-impact** business challenges in **product development organisations**.
+
 
 - **"Boots-on-the-Ground" Services**
   - New market entry
@@ -16,6 +18,7 @@ I solve **high-impact** business challenges in **product development organisatio
 
 ## Professional Experience:
 
+
 ### Product Owner, Visma  
 **Multinational FinTech SaaS** (1 year) 
 
@@ -26,6 +29,7 @@ I solve **high-impact** business challenges in **product development organisatio
 - **Stakeholder Management**: Ensured alignment among stakeholders, pursuing strategic objectives.  
 
 - **Systematic Product Design**: Implemented product development lifecycle processes to ensure alignment and scalability.
+
 
 
 ### Product Owner, Powered by Yonoton
@@ -40,6 +44,7 @@ I solve **high-impact** business challenges in **product development organisatio
 - **Tool Expertise**: Utilized DevOps practices and application frameworks to deliver robust and scalable solutions.
 
 
+
 ### Solutions Consultant, Digital Workforce  
 **Series B Professional Services** (1 year)
 
@@ -50,6 +55,7 @@ I solve **high-impact** business challenges in **product development organisatio
 - **Data Management**: Developed and maintained data-driven processes to ensure system integrity and client satisfaction.  
 
 - **Healthcare Sector Expertise**: Delivered tailored solutions for healthcare clients, addressing unique operational challenges.
+
 
 
 ### Project Analyst, Accelerando  
@@ -64,6 +70,7 @@ I solve **high-impact** business challenges in **product development organisatio
 - **Presentation Development**: Designed high-impact presentations for stakeholders and decision-makers.
 
 
+
 ### Business Analyst, CloudControl  
 **Cloud Technology Startup**  
 
@@ -74,6 +81,7 @@ I solve **high-impact** business challenges in **product development organisatio
 - **Data and Analytics**: Leveraged database technologies and web analytics for operational enhancements.  
 
 
+
 ### Accountant, Securitas  
 **Security-Sector Public Company**
 
@@ -81,7 +89,10 @@ I solve **high-impact** business challenges in **product development organisatio
 
 - **Global Operations**: Coordinated with international teams to ensure compliance with corporate financial standards.  
 
+
+
 ## Military Service
+
 
 ### Lance Corporal (Reserve), Intelligence  
 **Finnish Defence Forces** (6 months, national conscription) 
@@ -93,17 +104,20 @@ I solve **high-impact** business challenges in **product development organisatio
 
 ## Education
 
+
 ### B.Sc. in Financial Economics  
 - **Hanken School of Economics - 2018**
 - **Thesis:** Valuation of early-movers against late-movers in Initial Public Offerings
 
 Globally recognized European business school, 57th in Masters in Management (Financial Times, 2024).
 
+
 ### B.Sc. in Computer Science 
 - **University of Helsinki - 2025** 
 - **Thesis:**  Data Structures in Venture Operations
 
 Globally recognized European research university, 107th in World University Ranking (Times Higher Education, 2025).    
+
 
 ### M.Sc. in Management & M.Sc. in Software Engineering - 2026  
 - **Thesis:** Digital Shell Company Structures
