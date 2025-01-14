@@ -33,9 +33,9 @@ I solve **high-impact** business challenges in **product development organisatio
 
 - **Customer Relationship Management**: Maintained and strengthened direct client relationships, ensuring high levels of satisfaction and retention.  
 
-- **Development Operations**: Oversaw end-to-end development operations, integrating hardware and software solutions for optimal performance.  
+- **Hardware Operations**: Development of end-to-end operations digital services.  
   
-- **Agile Product Development**: Applied Scrum methodologies and design systems to drive iterative improvements.  
+- **Agile Product Development**: Applied Scrum and Design Systems to drive iterative improvements.  
 
 - **Tool Expertise**: Utilized DevOps practices and application frameworks to deliver robust and scalable solutions.
 
