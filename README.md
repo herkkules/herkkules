@@ -88,18 +88,12 @@ I solve **high-impact** business challenges in **product development organisatio
 - **Operational Excellence**: Delivered accurate financial reporting to support global strategic objectives.
 
 
-### Lance Corporal (Reserve)  
-**Finnish Defence Forces - Intelligence Division**  
+### Lance Corporal (Reserve), Intelligence  
+**Finnish Defence Forces**  
 
-- **Leadership**: Commanded dispersed intelligence operations, ensuring mission success under high-pressure conditions.  
+- **Mission-Critical Operations**: Served in a Dispersed Intelligence Operations
 
-- **Strategic Planning**: Executed mission-critical tasks with precision and efficiency.  
-
-- **Distinguished Service**: Promoted with distinction for exemplary performance and leadership.  
-
-- **Technical Expertise**: Managed advanced intelligence systems, demonstrating operational excellence.  
-
-  
+- **Proven Leadership**: Promoted with distinction
 
 
 ## Education
@@ -119,11 +113,13 @@ Globally recognized European research university, 107th in World University Rank
 ### M.Sc. in Management & M.Sc. in Software Engineering - 2026  
 - **Thesis:** Digital Shell Company Structures
 
+An interdisciplinary thesis project bridging financial engineering and software development.
+
 
 ## Volunteering  
 
 - **Ukraine War Relief:** Supported humanitarian efforts through coordination and resource mobilization.
  
-- **Technology Entrepreneurship:** Mentored startups and contributed to fostering innovation ecosystems.  
+- **Technology Entrepreneurship:** 
 
 - **Sailing:** Engaged in community-driven initiatives within the sailing community, promoting teamwork and leadership.  
