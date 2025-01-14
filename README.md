@@ -12,15 +12,9 @@ I solve high-impact business problems in product development organisations.
   - Resilient Operations
   - Critical Information Management
 
-Typical customers:
-- PE/VC/Family/MBB/IB: mergers & acquisitions, implementation
-- Corporate innovation units: knowledge transfer
-- Series B SaaS scaleups: growth support
-- Defense Export: market entry
-
 # Experience:
 
-title:  product owner, @visma, 1 year, multinational fintech saas
+- title:  product owner, @visma, 1 year, multinational fintech saas
 tech:   distributed systems, machine learning
 tools:  agile at scale, product lifecycle management
 skills: stakeholder management, systematic product design
