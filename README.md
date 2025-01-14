@@ -12,7 +12,7 @@ I solve high-impact business problems in product development organisations.
   - Resilient Operations
   - Critical Information Management
 
-# Experience:
+## Experience:
 
 - title:  product owner, @visma, 1 year, multinational fintech saas
 tech:   distributed systems, machine learning
@@ -51,7 +51,7 @@ skills: mission-critical systems
 role:   dispersed operations command. promoted with distinction.
 
 
-# Education:
+## Education:
 
 degree:   B.Sc. in Financial Economics, Hanken School of Economics - completed 2018.
 thesis:   Valuation of early-movers vs late-movers in an IPO window
@@ -65,6 +65,6 @@ degrees:  M.Sc. Management & M.Sc. Software Engineering - double degree, estimat
 thesis:   digital shell companies as a community financing technology
 notes:    dual-degree
 
-# Volunteering: 
+## Volunteering: 
 
 topics: ukraine war relief, technology entrepreneurship, sailing
