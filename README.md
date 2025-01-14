@@ -52,8 +52,8 @@ I solve **high-impact** business challenges in **product development organisatio
 - **Healthcare Sector Expertise**: Delivered tailored solutions for healthcare clients, addressing unique operational challenges.
 
 
-### Project Analyst  
-**Accelerando - Technology Business Advisor**  
+### Project Analyst, Accelerando  
+**Technology Business Advisor**  
 
 - **Growth Capital Projects**: Provided analytical support for technology-sector growth capital initiatives.
 
