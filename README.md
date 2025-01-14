@@ -1,4 +1,4 @@
-# Oskar Hiekkannen
+# Oskar Hiekkanen
 ## Technology Innovation Management
 
 Services:
