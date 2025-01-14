@@ -2,13 +2,13 @@
 
 I solve high-impact business challenges in product development organisations.
 
-- "Boots-on-the-Ground" Services
+- **"Boots-on-the-Ground" Services**
   - New market entry
   - Due Diligence
-- Interim Product Leadership
+- **Interim Product Leadership**
   - Transition period
   - Supporting growth
-- Complex Information Systems Design
+- **Complex Information Systems Design**
   - Resilient Operations
   - Critical Information Management
 
