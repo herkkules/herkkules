@@ -81,6 +81,7 @@ I solve **high-impact** business challenges in **product development organisatio
 
 - **Global Operations**: Coordinated with international teams to ensure compliance with corporate financial standards.  
 
+## Military Service
 
 ### Lance Corporal (Reserve), Intelligence  
 **Finnish Defence Forces** (6 months, national conscription) 
