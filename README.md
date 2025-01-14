@@ -1,4 +1,4 @@
-# High-Impact Innovation Management:
+# High-Impact Innovation Management
 - "Boots-on-the-Ground" Services
   - New market entry
   - Due Diligence
