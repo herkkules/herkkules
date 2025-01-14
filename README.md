@@ -19,9 +19,9 @@ I solve **high-impact** business challenges in **product development organisatio
 ### Product Owner, Visma  
 **Multinational FinTech SaaS** (1 year) 
 
-- **Establishment of corporate innovation unit**: Led the creation of a corporate innovation unit, providing a structured foundation for advanced initiatives and sustained competitiveness.
+- **Corporate Innovation Unit**: Led the creation of a corporate innovation unit, providing a structured foundation for advanced initiatives and sustained competitiveness.
   
-- **Technology experimentation**: Directed initiatives involving distributed systems and machine learning to deliver scalable and data-driven systems.
+- **Technology Experimentation**: Directed initiatives involving distributed systems and machine learning to deliver scalable and data-driven systems.
 
 - **Stakeholder Management**: Ensured alignment among stakeholders, pursuing strategic objectives.  
 
