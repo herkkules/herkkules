@@ -1,5 +1,5 @@
 # Oskar Hiekkanen
-## Technology Innovation Management
+## Innovation Execution
 
 Services:
 - "Boots-on-the-Ground" Services
