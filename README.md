@@ -115,7 +115,7 @@ I solve **high-impact** business challenges in **product development organisatio
 ### M.Sc. in Management & M.Sc. in Software Engineering  
 **Estimated Completion:** 2026  
 
-- **Thesis:** Digital shell companies for community-participation in capital investments
+- **Thesis:** Digital shell companies for community participation in capital investments
 
 ---
 
