@@ -77,18 +77,26 @@ I solve **high-impact** business challenges in **product development organisatio
 
 
 ### Accountant  
-**Securitas - Security-Sector Public Company**  
+**Securitas - Security-Sector Public Company**
+
 - **Business Unit Financial Oversight**: Managed financial operations for a business unit within a global organization.  
+
 - **Process Optimization**: Enhanced financial workflows through enterprise resource planning systems.  
+
 - **Global Operations**: Coordinated with international teams to ensure compliance with corporate financial standards.  
+
 - **Operational Excellence**: Delivered accurate financial reporting to support global strategic objectives.
 
 
 ### Lance Corporal (Reserve)  
 **Finnish Defence Forces - Intelligence Division**  
+
 - **Leadership**: Commanded dispersed intelligence operations, ensuring mission success under high-pressure conditions.  
+
 - **Strategic Planning**: Executed mission-critical tasks with precision and efficiency.  
+
 - **Distinguished Service**: Promoted with distinction for exemplary performance and leadership.  
+
 - **Technical Expertise**: Managed advanced intelligence systems, demonstrating operational excellence.  
 
   
