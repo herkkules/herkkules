@@ -61,11 +61,11 @@ role:   dispersed operations command. promoted with distinction.
 
 degree:   B.Sc. in Financial Economics, Hanken School of Economics - completed 2018.
 thesis:   Valuation of early-movers vs late-movers in an IPO window
-notes:    european business school. FT global ranking 57th (2024). Exchange semester at Sogang University, Seoul.
+notes:    European business school. FT global ranking 57th (2024). Exchange semester at Sogang University, Seoul.
 
 degree:   B.Sc. in Computer Science, University of Helsinki - estimated 2025.
 thesis:   digital venture data structures
-notes:    european research university. THE global ranking 107th (2025).
+notes:    European research university. THE global ranking 107th (2025).
 
 degrees:  M.Sc. Management & M.Sc. Software Engineering - double degree, estimated 2026
 thesis:   digital shell companies as a community financing technology
