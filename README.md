@@ -59,7 +59,7 @@
 
 >   - Developed **Financial Processes** and analysed service-level profitability.  
 >   - Produced **Investor Reports** to support investment decision-making and operational oversight.  
->   - Leveraged **Database Technologies** and **web analytics** for operational enhancements.  
+>   - Leveraged **Database Technologies** and **Web Analytics** for operational enhancements.  
 
 
 
