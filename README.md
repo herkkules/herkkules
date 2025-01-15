@@ -5,11 +5,12 @@
 **"Boots-on-the-Ground" Execution**
 > - Due Diligence
 > - Market Analysis
+> - Process Implementation
 
 **Interim Product Leadership**
 > - Transition Period
 > - Supporting Growth
-> - Process Implementation
+> - Design-to-code workflows
 
 **Complex Information Systems Design**
 >  - Resilient Operations
