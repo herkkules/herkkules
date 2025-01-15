@@ -51,7 +51,7 @@
 
 >   - Supported international expansion projects by delivering comprehensive **Market Analysis** and strategic insights.
 >   - Collaborated with clients on **Business Development** initiatives to align operations with investment objectives.
->   - Created **Pitch Decks** and prepared founders with the tools and preparation needed for capitalisation events.
+>   - Created **Pitch Decks** and prepared founders with the tools and preparation needed for capital events.
 
 
 ### Business Analyst, cloudControl  
