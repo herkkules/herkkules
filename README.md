@@ -26,7 +26,7 @@
 
 >   - Led the creation of a **Corporate Innovation Unit**, providing a structured foundation for advanced initiatives and sustained competitiveness.
 >   - Directed initiatives involving **Distributed Systems** and **Machine Learning** to deliver scalable and data-driven systems.
->   - Engaged in **Stakeholder Management**, ensiring alignment while pursuing strategic objectives.
+>   - Engaged in **Stakeholder Management**, ensuring alignment while pursuing strategic objectives.
 >   - Implemented **Product Lifecycle Management** processes to ensure alignment and scalability.
 
 
