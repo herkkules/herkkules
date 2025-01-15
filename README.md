@@ -8,7 +8,7 @@
 
 ---
 
-**Interim Product Leadership:**
+**Interim Services:**
 > - Transition Oversight
 > - Growth Support
 > - Agile Workflow Design
