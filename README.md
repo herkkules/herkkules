@@ -36,7 +36,7 @@
 
 >   - Direct **Client Relationships** ensuring strong partnerships and alignment with customer needs.
 >   - Established **Design Systems** and aligned **Agile Product Development**
->   - Utilized **DevOps** practices and leveraged application frameworks to deliver robust and scalable solutions.
+>   - Utilized **DevOps** practices and leveraged **application frameworks** to deliver digital services for all mobile operating systems.
 
 
 
@@ -101,7 +101,7 @@
 ### M.Sc. in Management & M.Sc. in Software Engineering  
 **Hanken School of Economics & University of Helsinki**
 > - **Thesis:** *Digital Shell Company Structures*
-> An interdisciplinary thesis project bridging financial engineering and software development.
+> - An interdisciplinary thesis project bridging financial engineering and software development.
 
 
 ## Volunteering  
