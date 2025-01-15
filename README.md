@@ -10,7 +10,7 @@
 **Interim Product Leadership**
 >  - Transition period
 >  - Supporting growth
->  - Design process implementation
+>  - Process implementation
 
 **Complex Information Systems Design**
 >  - Resilient Operations
