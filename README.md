@@ -1,4 +1,4 @@
-# Practical Innovation. Intense Transparency. 
+# Practical Innovation. Brutal Transparency. 
 > North America - based implementation specialist solving high-impact challenges in product development organisations. I bring clarity, craftsmanship and practical execution to your toughest short-term issues.
 ---
 **Tactical Execution Services:**
