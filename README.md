@@ -49,7 +49,7 @@
 ### Project Analyst, Accelerando  
 **Technology Business Advisor**  (2 years)
 
->   - Provided **Market Analysis** support for technology venture projects.
+>   - Provided **Market Analysis** support for international expansion projects.
 >   - Conducted comprehensive **Market Analysis** to identify opportunities and competitive positioning.  
 >   - Assisted clients in **Business Development** to achieve investment objectives.  
 
