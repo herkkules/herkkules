@@ -20,6 +20,7 @@
 
 ## Professional Experience:
 
+I have worked with companies across all stages of growth.
 
 ### Product Owner, Visma  
 **Multinational FinTech SaaS** (1 year) 
