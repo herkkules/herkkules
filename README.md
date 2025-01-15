@@ -72,7 +72,7 @@
 **Security-Sector Public Company**
 
 >   - Responsible for **financial operations** of a business unit within a global organization.  
->   - Coordinated with international teams to ensure compliance with corporate financial standards.  
+
 
 
 
