@@ -4,7 +4,7 @@
 ## Services Offered:
 **Tactical Execution Services:**
 > - Due Diligence
-> - Market Analysis
+> - Export Business Development
 > - Process Implementation
 
 **Interim Product Leadership:**
