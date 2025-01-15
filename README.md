@@ -2,17 +2,17 @@
 > Toronto-based expert solving high-impact challenges in product development. I bring design craftsmanship and practical execution to your toughest business problems.
 
 ## Services Offered:
-**Execution Services**
+**Tactical Execution Services:**
 > - Due Diligence
 > - Market Analysis
 > - Process Implementation
 
-**Interim Product Leadership**
+**Interim Product Leadership:**
 > - Transition Oversight
 > - Growth Support
 > - Agile Workflow Design
 
-**Complex Information Systems Design**
+**Complex Information Systems Design:**
 >  - Resilient Operations
 >  - Critical Information Management
 
