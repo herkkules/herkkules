@@ -24,7 +24,7 @@
 
 ## Professional Experience:
 
-> I’m a tempered product leader with specific competence in **scaling** SaaS, leading **innovation**, and delivering **data-driven** solutions. My approach combines strategic foresight with **practical** execution to deliver **measurable** results.
+> I’m a seasoned product leader with specific competence in **scaling** SaaS, leading **innovation**, and delivering **data-driven** solutions. My approach combines strategic foresight with **practical** execution to deliver **measurable** results.
 
 ### Product Owner, Visma  
 **Multinational FinTech SaaS** (1 year) 
