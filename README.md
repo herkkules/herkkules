@@ -1,5 +1,5 @@
 # Practical Innovation. Brutal Transparency. 
-> North America - based implementation specialist solving high-impact challenges in product development organisations. I bring clarity, craftsmanship and practical execution to your toughest short-term issues.
+> North America - based implementation specialist solving high-impact challenges in product development organisations. I bring clarity, craftsmanship and practical execution on your most immediate needs.
 ---
 **Tactical Execution Services:**
 > - Due Diligence
