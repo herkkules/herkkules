@@ -8,7 +8,7 @@
 
 ---
 
-**Interim Services:**
+**Interim Leadership Services:**
 > - Transition Oversight
 > - Growth Support
 > - Agile Workflow Design
