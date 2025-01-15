@@ -50,7 +50,7 @@
 
 
 ### Project Analyst, Accelerando  
-**Technology Business Advisor**  
+**Technology Business Advisor**  (2 years)
 
 >   - Provided analytical support for **technology-sector growth capital** projects.
 >   - Conducted comprehensive **Market Analysis** to identify opportunities and competitive positioning.  
@@ -59,7 +59,7 @@
 
 
 ### Business Analyst, CloudControl  
-**Cloud Technology Startup**  
+**Cloud Technology Startup**  (1 year)
 
 >   - Developed **financial processes** and analysed service-level profitability.  
 >   - Produced **investor reporting** to support investment decision-making and operational oversight.  
@@ -68,7 +68,7 @@
 
 
 ### Accountant, Securitas  
-**Security-Sector Public Company**
+**Security-Sector Public Company** (1 year)
 
 >   - Responsible for **financial operations** of a business unit within a global organization.  
 
@@ -76,7 +76,7 @@
 
 
 ### Lance Corporal (Reserve), Intelligence  
-**Finnish Defence Forces** (6 months, national conscription) 
+**Finnish Defence Forces** (6 months, National Conscription) 
 
 >   - Managed **dispersed operations** for critical communications infrastructure.
 >   - Earned **promotion** with distinction.
