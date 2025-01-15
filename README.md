@@ -94,7 +94,7 @@
 
 ### B.Sc. in Computer Science
 **University of Helsinki**, Finland - 2025
->  - **Thesis:**  *A holding company as source code*
+>  - **Thesis:**  *A new venture as source code*
 >  - Globally recognized European research university, 107th in World University Ranking (Times Higher Education, 2025).   
  
 
