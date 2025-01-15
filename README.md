@@ -14,6 +14,7 @@
 - **Complex Information Systems Design:**
 >  - Resilient Operations
 >  - Critical Information Management
+>  - Distributed Systems
 
 ---
 
