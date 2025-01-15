@@ -14,7 +14,7 @@
 - **Complex Information Systems Design:**
 >  - Resilient Operations
 >  - Critical Information Management
---
+---
 
 ## Professional Experience:
 
