@@ -1,5 +1,5 @@
 # Practical Innovation. Measurable Results. 
-> Based in Toronto and available globally, I specialise in solving high-impact business problems in product development organisations. My expertise lies in blending meticulous design and craftsmanship with boots-on-the-ground execution.
+> Based in Toronto and available globally, I specialise in solving high-impact business challenges in product development organisations. My expertise lies in blending meticulous design and craftsmanship with boots-on-the-ground execution.
 
 ## Services Offered:
 **"Boots-on-the-Ground" Execution**
