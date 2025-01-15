@@ -42,7 +42,7 @@
 
 >   - Implemented **Robotic Process Automation** systems for clients in regulated industries, ensuring operational efficiency and compliance.
 >   - End-to-end **Project Management** of automation solutions, adhering to strict deadlines and quality standards.  
->   - Delivered tailored solutions for **healthcare sector** clients, addressing unique operational challenges.
+>   - Delivered tailored solutions for **Healthcare Sector** clients, addressing unique operational challenges.
 
 
 
