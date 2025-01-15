@@ -51,10 +51,11 @@
 
 >   - Provided **Market Analysis** support for international expansion projects.
 >   - Assisted clients in **Business Development** to achieve investment objectives.  
+>   - Created **pitch decks** and prepared founders for capitalisation events.
 
 
-
-### Business Analyst, cloudControl  
+### 
+Business Analyst, cloudControl  
 **Cloud Technology Startup**  (1 year)
 
 >   - Developed **financial processes** and analysed service-level profitability.  
