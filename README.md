@@ -91,13 +91,13 @@
 
 
 ### B.Sc. in Computer Science
-**University of Helsinki**, Finland - ~2025
+**University of Helsinki**, Finland ~ 2025
 >  - **Thesis:**  *A new venture as source code*
 >  - Globally recognised European research university, 107th in World University Ranking (Times Higher Education, 2025).   
  
 
 ### M.Sc. in Management & M.Sc. in Software Engineering  
-**Hanken School of Economics & University of Helsinki**
+**Hanken School of Economics & University of Helsinki** ~ 2026
 > - **Thesis:** *Digital Shell Company Structures*
 > - An interdisciplinary thesis project bridging financial engineering and software development.
 
