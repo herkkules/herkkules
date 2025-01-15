@@ -56,7 +56,6 @@
 >   - Provided analytical support for **technology-sector growth capital** projects.
 >   - Conducted comprehensive **Market Analysis** to identify opportunities and competitive positioning.  
 >   - Assisted clients in **Business Development** to achieve investment objectives.  
->   - Designed high-impact **presentations** for stakeholders and decision-makers.
 
 
 
