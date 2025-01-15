@@ -24,8 +24,7 @@
 ### Product Owner, Visma  
 **Multinational FinTech SaaS** (1 year) 
 
-> **Corporate Innovation Unit**:
->   - Led the creation of a corporate innovation unit, providing a structured foundation for advanced initiatives and sustained competitiveness.
+>   - Led the creation of a **corporate innovation unit**, providing a structured foundation for advanced initiatives and sustained competitiveness.
 >   - Directed initiatives involving distributed systems and machine learning to deliver scalable and data-driven systems.
 
 > **Stakeholder Management**:
