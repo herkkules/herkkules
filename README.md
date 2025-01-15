@@ -1,16 +1,16 @@
 # Practical Innovation. Measurable Results. 
-> Based in Toronto and available globally, I specialise in solving high-impact business challenges in product development organisations. My expertise lies in blending meticulous design and craftsmanship with boots-on-the-ground execution.
+> Toronto-based expert solving high-impact challenges in product development. I bring design craftsmanship and practical execution to your toughest business problems.
 
 ## Services Offered:
-**"Boots-on-the-Ground" Execution**
+**Execution Services**
 > - Due Diligence
 > - Market Analysis
 > - Process Implementation
 
 **Interim Product Leadership**
-> - Transition Period
-> - Supporting Growth
-> - Design Concept -> Code workflows
+> - Transition Oversight
+> - Growth Support
+> - Agile Workflow Design
 
 **Complex Information Systems Design**
 >  - Resilient Operations
@@ -102,6 +102,6 @@
 
 ## Volunteering  
 
-> - **Ukraine War Relief:** Supported humanitarian efforts through coordination and resource mobilisation. 
-> - **Technology Entrepreneurship:** Facilitating professional networks in the American market for Finnish technology ventures. 
-> - **Sailing:** Active member of Teekkaripurjehtijat, sailing club for engineers.
+> - **Ukraine War Relief:** Fundraised, equipped and delivered 6 tactical evacuation vehicles to the front line.
+> - **Technology Entrepreneurship:** Fostering connections for Finnish startups entering US markets.
+> - **Sailing:** Active member of Teekkaripurjehtijat, the Finnish sailing club for engineers.
