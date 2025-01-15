@@ -1,4 +1,4 @@
-# Practical Innovation. Brutal Transparency. 
+# Practical Innovation. Nordic Qualities. 
 > North America - based implementation specialist solving high-impact challenges in product development organisations. I bring clarity, craftsmanship and practical execution to your most immediate operational needs. I dont like to sugarcoat.
 ---
 **Tactical Execution Services:**
