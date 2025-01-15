@@ -36,7 +36,7 @@
 
 >   - Direct **Client Relationships** ensuring strong partnerships and alignment with customer needs.
 >   - Established and maintained **Design Systems**, enhancing consistency and scalability across products.
->   - Aligned **Agile Product Development** using Scrum 
+>   - Aligned **Agile Product Development** direction using Scrum 
 >   - Utilized **DevOps** practices and leveraged application frameworks to deliver robust and scalable solutions.
 
 
