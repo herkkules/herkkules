@@ -76,7 +76,7 @@ Business Analyst, cloudControl
 **Finnish Defence Forces** (6 months, National Conscription) 
 
 >   - Managed **Dispersed Operations** for critical communications infrastructure.
->   - Earned **promotion with distinction** for recognised **Tactical Leadership**.
+>   - Earned promotion with distinction for recognised **Tactical Leadership**.
 
 
 
