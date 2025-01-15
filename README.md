@@ -34,11 +34,10 @@
 ### Product Owner, Powered by Yonoton
 **Mobile SaaS Startup** (2 years)  
 
->   -  Direct **Client Relationship** ensuring strong partnerships and alignment with customer needs.
+>   - Direct **Client Relationship** ensuring strong partnerships and alignment with customer needs.
 >   - Established and maintained **Design Systems**, enhancing consistency and scalability across products.
-> Oversaw **Agile Product Development** using Scrum 
-
-> **Tool Expertise**: Utilized DevOps practices and application frameworks to deliver robust and scalable solutions.
+>   - Oversaw **Agile Product Development** using Scrum 
+>   - Utilized **DevOps** practices and application frameworks to deliver robust and scalable solutions.
 
 
 
