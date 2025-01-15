@@ -1,5 +1,5 @@
 # Practical Innovation. Intense Honesty. 
-> Toronto-based expert solving high-impact business challenges in product development organisations. I bring design craftsmanship and practical execution to your toughest business problems.
+> North America-based expert solving high-impact business challenges in product development organisations. I bring design craftsmanship and practical execution to your toughest business problems.
 ---
 **Tactical Execution Services:**
 > - Due Diligence
