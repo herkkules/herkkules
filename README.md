@@ -5,12 +5,16 @@
 > - Due Diligence
 > - Export Business Development
 > - Process Implementation
+
 ---
+
 - **Interim Product Leadership:**
 > - Transition Oversight
 > - Growth Support
 > - Agile Workflow Design
+
 ---
+
 - **Complex Information Systems Design:**
 >  - Resilient Operations
 >  - Critical Information Management
