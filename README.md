@@ -67,7 +67,7 @@ Business Analyst, cloudControl
 ### Accountant, Securitas  
 **Security-Sector Public Company** (1 year)
 
->   - Responsible for **financial operations** of a business unit within a global organisation.  
+>   - Responsible for **Financial Operations** of a business unit within a global organisation.  
 
 
 
