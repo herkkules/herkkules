@@ -2,8 +2,8 @@
 > Based in Toronto and available globally, I specialise in solving high-impact business problems in product development organizations. My expertise lies in blending meticulous design and craftsmanship with boots-on-the-ground execution.
 
 - **"Boots-on-the-Ground" Services**
-  - New market entry
-  - Due Diligence
+  > **New market entry**
+  > **Due Diligence**
 
 - **Interim Product Leadership**
   - Transition period
@@ -20,13 +20,15 @@
 ### Product Owner, Visma  
 **Multinational FinTech SaaS** (1 year) 
 
->  **Corporate Innovation Unit**: Led the creation of a corporate innovation unit, providing a structured foundation for advanced initiatives and sustained competitiveness.
-  
-> **Technology Experimentation**: Directed initiatives involving distributed systems and machine learning to deliver scalable and data-driven systems.
+> **Corporate Innovation Unit**:
+>   - Led the creation of a corporate innovation unit, providing a structured foundation for advanced initiatives and sustained competitiveness.
+>   - Directed initiatives involving distributed systems and machine learning to deliver scalable and data-driven systems.
 
-> **Stakeholder Management**: Ensured alignment among stakeholders, pursuing strategic objectives.  
+> **Stakeholder Management**:
+>   -  Ensured alignment among stakeholders, pursuing strategic objectives.
 
->  **Systematic Product Design**: Implemented product development lifecycle processes to ensure alignment and scalability.
+>  **Systematic Product Design**:
+>   - Implemented product development lifecycle processes to ensure alignment and scalability.
 
 
 
