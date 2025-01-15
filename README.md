@@ -103,8 +103,6 @@
 
 ## Volunteering  
 
-- **Ukraine War Relief:** Supported humanitarian efforts through coordination and resource mobilization.
- 
-- **Technology Entrepreneurship:** 
-
-- **Sailing:** Engaged in community-driven initiatives within the sailing community, promoting teamwork and leadership.  
+> - **Ukraine War Relief:** Supported humanitarian efforts through coordination and resource mobilisation. 
+> - **Technology Entrepreneurship:** Facilitating professional networks in the American market for Finnish technology ventures. 
+> - **Sailing:** Active member of Teekkaripurjehtijat, sailing club for engineers.
