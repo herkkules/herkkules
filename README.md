@@ -51,7 +51,7 @@
 
 >   - Provided **Market Analysis** support for international expansion projects.
 >   - Assisted clients in **Business Development** to achieve investment objectives.  
->   - Created **pitch decks** and prepared founders for capitalisation events.
+>   - Created **Pitch Decks** and prepared founders for capitalisation events.
 
 
 ### 
