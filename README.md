@@ -87,13 +87,13 @@
 ### B.Sc. in Financial Economics
 **Hanken School of Economics**, Finland - 2018
 >   - **Thesis:** *Valuation of early-movers against late-movers in Initial Public Offerings*
->   - Globally recognized European business school, 57th in Masters in Management (Financial Times, 2024).
+>   - Globally recognised European business school, 57th in Masters in Management (Financial Times, 2024).
 
 
 ### B.Sc. in Computer Science
 **University of Helsinki**, Finland - 2025
 >  - **Thesis:**  *A new venture as source code*
->  - Globally recognized European research university, 107th in World University Ranking (Times Higher Education, 2025).   
+>  - Globally recognised European research university, 107th in World University Ranking (Times Higher Education, 2025).   
  
 
 ### M.Sc. in Management & M.Sc. in Software Engineering  
