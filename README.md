@@ -1,4 +1,4 @@
-# Practical Innovation. Intense Honesty. 
+# Practical Innovation. Intense Transparency. 
 > North America - based specialist in solving high-impact business challenges in product development organisations. I bring clarity, craftsmanship and practical execution to your toughest short-term business challenges.
 ---
 **Tactical Execution Services:**
