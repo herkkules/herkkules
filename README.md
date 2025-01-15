@@ -54,8 +54,7 @@
 >   - Created **Pitch Decks** and prepared founders for capitalisation events.
 
 
-### 
-Business Analyst, cloudControl  
+### Business Analyst, cloudControl  
 **Cloud Technology Startup**  (1 year)
 
 >   - Developed **financial processes** and analysed service-level profitability.  
