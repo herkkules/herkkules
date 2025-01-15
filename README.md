@@ -44,55 +44,44 @@
 ### Solutions Consultant, Digital Workforce  
 **Series B Professional Services** (1 year)
 
-> **Robotic Process Automation**: Implemented RPA systems for clients in regulated industries, ensuring operational efficiency and compliance.
-  
-> **Project Management**: Managed end-to-end delivery of automation solutions, adhering to strict deadlines and quality standards.  
-
-> **Data Management**: Developed and maintained data-driven processes to ensure system integrity and client satisfaction.  
-
-> **Healthcare Sector Expertise**: Delivered tailored solutions for healthcare clients, addressing unique operational challenges.
+>   - Implemented **Robotic Process Automation** systems for clients in regulated industries, ensuring operational efficiency and compliance.
+>   - End-to-end **Project Management** of automation solutions, adhering to strict deadlines and quality standards.  
+>   - Delivered tailored solutions for **healthcare sector** clients, addressing unique operational challenges.
 
 
 
 ### Project Analyst, Accelerando  
 **Technology Business Advisor**  
 
-> **Growth Capital Projects**: Provided analytical support for technology-sector growth capital initiatives.
-
-> **Market Research**: Conducted comprehensive research to identify opportunities and competitive positioning.  
-
-> **Business Development**: Assisted clients in crafting actionable strategies to achieve investment objectives.  
-
-> **Presentation Development**: Designed high-impact presentations for stakeholders and decision-makers.
+>   - Provided analytical support for **technology-sector growth capital** projects.
+>   - Conducted comprehensive **Market Analysis** to identify opportunities and competitive positioning.  
+>   - Assisted clients in **Business Development** to achieve investment objectives.  
+>   - Designed high-impact **presentations** for stakeholders and decision-makers.
 
 
 
 ### Business Analyst, CloudControl  
 **Cloud Technology Startup**  
 
-> **Financial Operations**: Developed financial reporting processes and identified growth factors.  
-
-> **Investor-focused Reporting**: Produced detailed financial reports to support investment decision-making and operational oversight.  
-
-> **Data and Analytics**: Leveraged database technologies and web analytics for operational enhancements.  
+>   - Developed **financial processes** and analysed service-level profitability.  
+>   - Produced **investor reporting** to support investment decision-making and operational oversight.  
+>   - Leveraged **database technologies** and **web analytics** for operational enhancements.  
 
 
 
 ### Accountant, Securitas  
 **Security-Sector Public Company**
 
-> **Business Unit Financial Oversight**: Managed financial operations for a business unit within a global organization.  
-
-> **Global Operations**: Coordinated with international teams to ensure compliance with corporate financial standards.  
+>   - Responsible for **financial operations** of a business unit within a global organization.  
+>   - Coordinated with international teams to ensure compliance with corporate financial standards.  
 
 
 
 ### Lance Corporal (Reserve), Intelligence  
 **Finnish Defence Forces** (6 months, national conscription) 
 
-> **Tactical Execution**: Managed dispersed operations and critical communications infrastructure.
- 
-> **Recognised Leadership**: Earned promotion with distinction.
+>   - Managed dispersed operations and critical communications infrastructure.
+>   - Earned promotion with distinction.
 
 
 
@@ -101,22 +90,19 @@
 
 ### B.Sc. in Financial Economics
 **Hanken School of Economics**, Finland - 2018
-- **Thesis:** *Valuation of early-movers against late-movers in Initial Public Offerings*
-
-> Globally recognized European business school, 57th in Masters in Management (Financial Times, 2024).
+>   - **Thesis:** *Valuation of early-movers against late-movers in Initial Public Offerings*
+>   - Globally recognized European business school, 57th in Masters in Management (Financial Times, 2024).
 
 
 ### B.Sc. in Computer Science
 **University of Helsinki**, Finland - 2025
-- **Thesis:**  *Data Structures in Venture Operations*
-
-> Globally recognized European research university, 107th in World University Ranking (Times Higher Education, 2025).    
+>  - **Thesis:**  *Data Structures in Venture Operations*
+>  - Globally recognized European research university, 107th in World University Ranking (Times Higher Education, 2025).    
 
 
 ### M.Sc. in Management & M.Sc. in Software Engineering  
-- **Hanken School of Economics & University of Helsinki**
-- **Thesis:** *Digital Shell Company Structures*
-
+**Hanken School of Economics & University of Helsinki**
+> - **Thesis:** *Digital Shell Company Structures*
 > An interdisciplinary thesis project bridging financial engineering and software development.
 
 
