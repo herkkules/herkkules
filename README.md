@@ -96,7 +96,7 @@
  
 
 ### M.Sc. in Management & M.Sc. in Software Engineering  
-**Hanken School of Economics & University of Helsinki** ~ 2026
+**Hanken School of Economics** & **University of Helsinki** ~ 2026
 > - **Thesis:** *Digital Shell Company Structures*
 > - An interdisciplinary thesis project bridging financial engineering and software development.
 
