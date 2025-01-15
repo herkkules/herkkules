@@ -49,9 +49,9 @@
 ### Project Analyst, Accelerando  
 **Technology Business Advisor**  (2 years)
 
->   - Provided **Market Analysis** support for international expansion projects.
->   - Assisted clients in **Business Development** to achieve investment objectives.  
->   - Created **Pitch Decks** and prepared founders for capitalisation events.
+>   - Supported international expansion projects by delivering comprehensive **Market Analysis** and strategic insights.
+>   - Collaborated with clients on **Business Development** initiatives to align operations with investment objectives.
+>   - Created **Pitch Decks** and prepared founders with the tools and preparation needed for capitalisation events.
 
 
 ### Business Analyst, cloudControl  
