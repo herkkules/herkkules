@@ -29,7 +29,7 @@
 >   - Ensured alignment among **stakeholders**, pursuing **strategic** objectives.
 
 >  **Systematic Product Design**:
->   - Implemented product development lifecycle processes to ensure alignment and scalability.
+>   - Implemented **Product Lifecycle Management** processes to ensure alignment and scalability.
 
 
 
