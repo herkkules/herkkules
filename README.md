@@ -79,7 +79,7 @@
 ### Lance Corporal (Reserve), Intelligence  
 **Finnish Defence Forces** (6 months, national conscription) 
 
->   - Managed **dispersed operations** and critical **communications infrastructure**.
+>   - Managed **dispersed operations** for critical communications infrastructure.
 >   - Earned **promotion with distinction**.
 
 
