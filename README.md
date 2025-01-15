@@ -58,7 +58,7 @@
 **Cloud Technology Startup**  (1 year)
 
 >   - Implemented **Financial Processes** to enhance operational efficiency and ensure accurate service-level profitability analysis.  
->   - Provided actionable insights through **Investor Reports**, supporting strategic decision-making and ensuring operational oversight.
+>   - Provided actionable insights through **Investor Reports**, supporting decision-making and ensuring operational oversight.
 >   - Leveraged **Database Technologies** and **Web Analytics** to drive data-informed improvements and streamline operations.
 
 
