@@ -56,7 +56,7 @@
 
 
 
-### Business Analyst, CloudControl  
+### Business Analyst, cloudControl  
 **Cloud Technology Startup**  (1 year)
 
 >   - Developed **financial processes** and analysed service-level profitability.  
