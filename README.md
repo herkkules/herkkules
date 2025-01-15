@@ -94,7 +94,7 @@
 >  - Globally recognised European research university, 107th in World University Ranking (Times Higher Education, 2025).   
  
 
-### Double Master's in Management & Software Engineering  
+### Double Masters in Management & Software Engineering  
 **Hanken School of Economics** & **University of Helsinki** ~ 2026
 > - **Thesis:** *Digital Shell Company Structures*
 > - An interdisciplinary thesis project bridging **Financial Engineering** and **Software Development**.
