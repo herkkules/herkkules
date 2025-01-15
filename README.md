@@ -10,7 +10,7 @@
 **Interim Product Leadership**
 > - Transition Period
 > - Supporting Growth
-> - Design Concept --> Code workflows
+> - Design Concept -> Code workflows
 
 **Complex Information Systems Design**
 >  - Resilient Operations
