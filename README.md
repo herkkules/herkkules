@@ -77,7 +77,7 @@
 **Finnish Defence Forces** (6 months, National Conscription) 
 
 >   - Managed **dispersed operations** for critical communications infrastructure.
->   - Earned **promotion** with distinction.
+>   - Earned **promotion with distinction** for demonstrated **tactical leadership**.
 
 
 
