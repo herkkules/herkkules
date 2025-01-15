@@ -8,14 +8,14 @@
 
 ---
 
-- **Interim Product Leadership:**
+**Interim Product Leadership:**
 > - Transition Oversight
 > - Growth Support
 > - Agile Workflow Design
 
 ---
 
-- **Complex Information Systems Design:**
+**Complex Information Systems Design:**
 >  - Resilient Operations
 >  - Critical Information Management
 >  - Distributed Systems
