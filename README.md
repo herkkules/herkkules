@@ -67,7 +67,7 @@
 ### Accountant, Securitas  
 **Security-Sector Public Company** (1 year)
 
->   - Responsible for **financial operations** of a business unit within a global organization.  
+>   - Responsible for **financial operations** of a business unit within a global organisation.  
 
 
 
