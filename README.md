@@ -3,14 +3,13 @@
 
 ## Services Offered:
 **"Boots-on-the-Ground" Execution**
-> - New market entry
 > - Due Diligence
 > - Market Analysis
 
 **Interim Product Leadership**
->  - Transition period
->  - Supporting growth
->  - Process implementation
+> - Transition Period
+> - Supporting Growth
+> - Process Implementation
 
 **Complex Information Systems Design**
 >  - Resilient Operations
