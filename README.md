@@ -105,7 +105,7 @@
 > - **Thesis:** *Digital Shell Company Structures*
 > - An interdisciplinary thesis project bridging **Financial Engineering** and **Software Development**.
 
-
+---
 ## Volunteering  
 
 > - **Ukraine War Relief:** Fundraised, equipped and delivered 6 tactical evacuation vehicles to the front line.
