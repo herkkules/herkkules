@@ -97,7 +97,7 @@
 ### Double Master's in Management & Software Engineering  
 **Hanken School of Economics** & **University of Helsinki** ~ 2026
 > - **Thesis:** *Digital Shell Company Structures*
-> - An interdisciplinary thesis project bridging **financial engineering** and **software development**.
+> - An interdisciplinary thesis project bridging **Financial Engineering** and **Software Development**.
 
 
 ## Volunteering  
