@@ -1,7 +1,6 @@
 # Practical Innovation. Measurable Results. 
 > Toronto-based expert solving high-impact challenges in product development. I bring design craftsmanship and practical execution to your toughest business problems.
-
-## Services Offered:
+---
 **Tactical Execution Services:**
 > - Due Diligence
 > - Export Business Development
