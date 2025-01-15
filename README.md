@@ -84,7 +84,7 @@
 
 
 ### B.Sc. in Financial Economics
-**Hanken School of Economics**, Finland - 2018
+**Hanken School of Economics**, Finland - 2019
 >   - **Thesis:** *Valuation of early-movers against late-movers in Initial Public Offerings*
 >   - Globally recognised European business school, 57th in Masters in Management (Financial Times, 2024).
 
