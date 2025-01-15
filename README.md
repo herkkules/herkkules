@@ -57,9 +57,9 @@
 ### Business Analyst, cloudControl  
 **Cloud Technology Startup**  (1 year)
 
->   - Developed **Financial Processes** and analysed service-level profitability.  
->   - Produced **Investor Reports** to support investment decision-making and operational oversight.  
->   - Leveraged **Database Technologies** and **Web Analytics** for operational enhancements.  
+>   - Implemented **Financial Processes** to enhance operational efficiency and ensure accurate service-level profitability analysis.  
+>   - Provided actionable insights through **Investor Reports**, supporting strategic decision-making and ensuring operational oversight.
+>   - Leveraged **Database Technologies** and **Web Analytics** to drive data-informed improvements and streamline operations.
 
 
 
