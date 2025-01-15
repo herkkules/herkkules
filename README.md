@@ -83,7 +83,7 @@
 >   - Managed **Dispersed Operations** of critical communications infrastructure.
 >   - Promoted with distinction for recognised **Tactical Leadership**.
 
-
+---
 
 ## Education
 
