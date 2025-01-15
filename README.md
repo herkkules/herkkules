@@ -33,7 +33,7 @@
 **Mobile SaaS Startup** (2 years)  
 
 >   - Direct **Client Relationships** ensuring strong partnerships and alignment with customer needs.
->   - Established **Design Systems** and aligned **Agile Product Development** in a Scrum team while managing international contractors.
+>   - Established **Design Systems** and aligned **Agile Product Development** in a **Scrum** team with international contractors.
 >   - Utilized **DevOps** practices and leveraged **application frameworks** to deliver digital services for different modalities of personal computing devices.
 
 
