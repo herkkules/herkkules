@@ -20,7 +20,7 @@
 
 ## Professional Experience:
 
-I’m a seasoned product leader with expertise in scaling SaaS, leading innovation, and delivering data-driven solutions. From building corporate innovation units to optimizing operations with emerging technologies, I specialize in driving growth and resilience for high-impact organizations. My approach combines strategic insight with flawless execution to deliver measurable results.
+> I’m a seasoned product leader with expertise in scaling SaaS, leading innovation, and delivering data-driven solutions. From building corporate innovation units to optimizing operations with emerging technologies, I specialize in driving growth and resilience for high-impact organizations. My approach combines strategic insight with flawless execution to deliver measurable results.
 
 ### Product Owner, Visma  
 **Multinational FinTech SaaS** (1 year) 
