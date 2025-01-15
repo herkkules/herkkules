@@ -1,5 +1,5 @@
 # Practical Innovation. Intense Honesty. 
-> North America-based expert solving high-impact business challenges in product development organisations. I bring clarity, craftsmanship and practical execution to your toughest short-term business problems.
+> North America -based expert solving high-impact business challenges in product development organisations. I bring clarity, craftsmanship and practical execution to your toughest short-term business problems.
 ---
 **Tactical Execution Services:**
 > - Due Diligence
