@@ -94,9 +94,9 @@
 
 ### B.Sc. in Computer Science
 **University of Helsinki**, Finland - 2025
->  - **Thesis:**  *Data Structures in Venture Operations*
->  - Globally recognized European research university, 107th in World University Ranking (Times Higher Education, 2025).    
-
+>  - **Thesis:**  *A holding company as source code*
+>  - Globally recognized European research university, 107th in World University Ranking (Times Higher Education, 2025).   
+ 
 
 ### M.Sc. in Management & M.Sc. in Software Engineering  
 **Hanken School of Economics & University of Helsinki**
