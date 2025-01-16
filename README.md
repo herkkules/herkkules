@@ -1,4 +1,4 @@
-# Practical Innovation. Nordic Qualities. 
+# Practical Innovation. Nordic Qualities. Full Stack.
 > North America - based implementation specialist solving high-impact challenges in product development organisations. I bring clarity, craftsmanship and practical execution to your most pressing operational needs.
 ---
 **Tactical Execution Services:**
