@@ -39,7 +39,7 @@
 
 >   - Nurtured direct **Client Relationships** ensuring strong partnerships and alignment with customer needs.
 >   - Established **Design Systems** and aligned **Agile Product Development** in a **Scrum** team with international contractors.
->   - Utilized **DevOps** practices and leveraged **Application Frameworks** to deliver digital services across diverse modalities of computing devices.
+>   - Utilized **DevOps** practices and leveraged **Application Frameworks** to deliver digital services across different device modalities.
 
 
 
