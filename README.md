@@ -12,6 +12,9 @@ I provide on-the-ground execution that transforms strategic intentions into meas
 ---
 
 **Interim Leadership Services:**
+
+I step in as a seasoned product leader to provide stability and drive during periods of transition or rapid growth. Whether bridging a leadership gap, managing the onboarding of a permanent executive, or scaling your product organization to meet increasing demands, I deliver hands-on expertise to ensure continuity and momentum.
+
 > - Transition Oversight
 > - Growth Support
 > - Agile Workflow Design
