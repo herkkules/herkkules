@@ -22,6 +22,9 @@ I step in as a seasoned product leader to provide stability and drive during per
 ---
 
 **Complex Information Systems Design:**
+
+I specialize in designing complex information systems rooted in open standards, ensuring long-term adaptability, interoperability, and strategic alignment. My independent approach means I am free from vendor or proprietary biases, enabling me to focus on creating solutions that maximize value and flexibility for your organization.
+
 >  - Resilient Operations
 >  - Critical Information Management
 >  - Distributed Systems
