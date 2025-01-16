@@ -102,7 +102,7 @@
 
 ### Double Masters in Management & Software Engineering  
 **Hanken School of Economics** & **University of Helsinki** ~ 2026
-> - **Thesis:** *Dispersed Investment Capital Operations*
+> - **Thesis:** *Dispersed Investment*
 > - An interdisciplinary thesis project bridging **Financial Engineering** and **Software Development**.
 > - Focus Areas: Data-driven Product Management, Dispersed Operations
 
