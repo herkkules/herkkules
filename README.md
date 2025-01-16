@@ -8,7 +8,7 @@ Translating strategic intent into measurable outcomes requires legwork. I suppor
 
 My approach is characterised by meticulous preparation, transparent communication, and an unwavering commitment to delivering tangible results in real time, ensuring challenges are addressed with clarity and precision.
 
-> - **Due Diligence:** I conduct incisive, detail-oriented due diligence to illuminate the operational, financial, and strategic realities underpinning high-value decisions. Whether assessing an acquisition target, investment opportunity, or partnership, I focus on identifying hidden risks, operational inefficiencies, and growth potential. My approach ensures that stakeholders can proceed with absolute clarity and confidence.
+> - **Due Diligence:** I conduct incisive, detail-oriented due diligence to illuminate the operational, financial, and strategic realities underpinning high-value decisions. Whether assessing an acquisition target, investment opportunity, or partnership, I focus on identifying hidden risks, operational inefficiencies, and growth potential. My approach ensures that stakeholders can proceed with clarity and confidence.
 
 > - **New Market Entry:** Entering a new market requires more than strategy—it demands a nuanced understanding of local dynamics and a firm hand in execution. I specialise in bridging this gap, delivering tailored market entry solutions that prioritise speed, compliance, and impact. From regulatory navigation to establishing key relationship networks, I embed your organisation within the market, enabling sustainable growth from day one.
 
