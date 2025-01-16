@@ -1,5 +1,5 @@
 # Practical Innovation. Nordic Qualities.
-> Seasoned and results-driven **Product Management** professional delivering impact from day one. With a strong foundation in Nordic design principles, I bring clarity, craftsmanship and practical execution to your most pressing strategic objectives. Base: North America.
+> Seasoned and results-driven **Product Management** professional delivering impact from day one. With a strong foundation in Nordic design principles, I bring clarity, craftsmanship and practical execution to your most pressing strategic objectives.
 ---
 
 **On-the-ground Services:**
