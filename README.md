@@ -1,5 +1,5 @@
 # Practical Innovation. Nordic Qualities.
-> North America - based full-stack implementation specialist solving high-impact challenges in product development organisations. I bring clarity, craftsmanship and practical execution to your most pressing strategic objectives.
+> Seasoned and results driven product management professional delivering impact from day one. I bring clarity, craftsmanship and practical execution to your most pressing strategic objectives. Based in North America.
 ---
 **Tactical Execution Services:**
 > - Due Diligence
