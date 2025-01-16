@@ -35,7 +35,9 @@ I step in as a seasoned product leader to provide stability and drive during per
 I specialise in designing complex information systems rooted in open standards, ensuring long-term adaptability, interoperability, and strategic alignment. My independent approach means I am free from vendor or proprietary biases, enabling me to focus on creating solutions that maximise long-term value and options for your organization.
 
 >  - **Resilient Operations:**  I design systems that thrive under pressure, ensuring operational continuity even in the face of disruption. From fail-safe architectures to redundancy planning, resilience is built into every layer.
+
 >  - **Critical Information Management:** Effective decisions demand timely, accurate data. I create frameworks that streamline the capture, organisation, and retrieval of critical information, empowering stakeholders with actionable insights.
+
 >  - **Distributed Systems:** For organisations with complex or decentralised operations, I develop distributed architectures that prioritise efficiency, security, and scalability, enabling seamless collaboration and reliable performance across locations.
 
 
