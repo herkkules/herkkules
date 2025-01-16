@@ -4,7 +4,7 @@
 **Tactical Execution Services:**
 > - Due Diligence
 > - Export Business Development
-> - Process Implementation
+> - Capability Implementation
 
 ---
 
