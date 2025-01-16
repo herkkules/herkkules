@@ -15,7 +15,7 @@ I provide on-the-ground execution that transforms strategic intentions into meas
 
 I step in as a seasoned product leader to provide stability and drive during periods of transition or rapid growth. Whether bridging a leadership gap, managing the onboarding of a permanent executive, or scaling your product organization to meet increasing demands, I deliver hands-on expertise to ensure continuity and momentum.
 
-> - **Transition Oversight:** Step in seamlessly to manage product portfolios, maintain stakeholder confidence, and stabilize operations while facilitating the onboarding of permanent executives.
+> - **Transition Oversight:** Step in seamlessly to manage product portfolios, maintain stakeholder confidence, and stabilise operations while facilitating the onboarding of permanent executives.
 > - **Growth Support:** Establish scalable structures for hiring, team development, and cross-functional alignment to address surging demand and ambitious market goals.
 > - **Agile Workflow Design:** Redesign and implement workflows that prioritize speed, collaboration, and measurable outcomes, enabling teams to meet fast-changing priorities with confidence.
 
