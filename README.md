@@ -21,11 +21,11 @@ My approach is characterised by meticulous preparation, transparent communicatio
 
 I step in as a seasoned product leader to provide stability and drive during periods of transition or rapid growth. Whether bridging a leadership gap, managing the onboarding of a permanent executive, or scaling your product organization to meet increasing demands, I deliver hands-on expertise to ensure continuity and momentum.
 
-> - **Bridging Leadership Gap:** Bridging Leadership Gaps: Whether during an executive transition or organisational realignment, I deliver immediate operational oversight, ensuring stability and alignment across teams and initiatives.
+> - **Bridging Leadership Gap:** Rapid expansion brings its own complexities, requiring thoughtful structure and scalable systems. I design and implement frameworks that enable your organisation to meet growing demands with agility and resilience, ensuring both immediate and long-term success.
 
 > - **Scaling for Growth:**  I design and implement frameworks to manage expansion, from optimising team structures to introducing scalable processes that align with organisational objectives.
 
-> - **Driving Strategic Execution:** With a focus on measurable outcomes, I translate high-level strategies into actionable plans, ensuring execution remains on course even amidst uncertainty.
+> - **Translating Strategy into Execution:**  Strategic ambitions are only meaningful when realised through action. I work closely with teams and stakeholders to distil overarching goals into concrete, actionable plans, driving progress without compromising quality or vision.
 
 
 ---
