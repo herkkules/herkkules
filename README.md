@@ -102,7 +102,7 @@
 
 ### Double Masters in Management & Software Engineering  
 **Hanken School of Economics** & **University of Helsinki** ~ 2026
-> - **Thesis:** *decentralised property investments* (work in progress...)
+> - **Thesis:** *decentralised business operations & investments* (work in progress...)
 > - An interdisciplinary thesis project bridging **Financial Engineering** and **Software Development**.
 > - Focus Areas: Data-driven Product Management, Dispersed Operations
 
