@@ -1,7 +1,7 @@
 # Practical Innovation. Nordic Qualities.
 > Seasoned and results-driven **Product Management** professional delivering impact from day one. I bring clarity, craftsmanship and practical execution to your most pressing strategic objectives. Base: North America.
 ---
-**(Boots on the ground) Services:**
+**("Boots-on-the-ground") Services:**
 > - Due Diligence
 > - Export Business Development
 > - Capability Implementation
