@@ -19,9 +19,11 @@ I provide practical, high-stakes solutions at the intersection of strategy and e
 
 I step in as a seasoned product leader to provide stability and drive during periods of transition or rapid growth. Whether bridging a leadership gap, managing the onboarding of a permanent executive, or scaling your product organization to meet increasing demands, I deliver hands-on expertise to ensure continuity and momentum.
 
-> - **Transition Oversight:** Step in seamlessly to manage product portfolios, maintain stakeholder confidence, and stabilise operations while facilitating the onboarding of permanent executives.
-> - **Growth Support:** Establish scalable structures for hiring, team development, and cross-functional alignment to address surging demand and ambitious market goals.
-> - **Agile Workflow Design:** Redesign and implement workflows that prioritize speed, collaboration, and measurable outcomes, enabling teams to meet fast-changing priorities with confidence.
+> - **Bridging Leadership Gap:** Bridging Leadership Gaps: Whether during an executive transition or organisational realignment, I deliver immediate operational oversight, ensuring stability and alignment across teams and initiatives.
+
+> - **Scaling for Growth:**  I design and implement frameworks to manage expansion, from optimising team structures to introducing scalable processes that align with organisational objectives.
+
+> - **Driving Strategic Execution:** With a focus on measurable outcomes, I translate high-level strategies into actionable plans, ensuring execution remains on course even amidst uncertainty.
 
 
 ---
