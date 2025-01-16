@@ -4,7 +4,9 @@
 
 **On-the-ground Services:**
 
-I provide practical, high-stakes solutions at the intersection of strategy and execution. Translating strategic intent into measurable outcomes, I support organisations navigating critical challenges—be it entering new markets, conducting acquisition due diligence, or integrating complex systems. My approach is characterised by meticulous preparation, transparent communication, and an unwavering commitment to delivering tangible results in real time, ensuring challenges are addressed with clarity and precision.
+I provide practical, high-stakes solutions at the intersection of strategy and execution. Translating strategic intent into measurable outcomes, I support organisations navigating critical challenges—be it entering new markets, conducting acquisition due diligence, or integrating complex systems. 
+
+My approach is characterised by meticulous preparation, transparent communication, and an unwavering commitment to delivering tangible results in real time, ensuring challenges are addressed with clarity and precision.
 
 > - **Due Diligence:** I conduct incisive, detail-oriented due diligence to illuminate the operational, financial, and strategic realities underpinning high-value decisions. Whether assessing an acquisition target, investment opportunity, or partnership, I focus on identifying hidden risks, operational inefficiencies, and growth potential. My approach ensures that stakeholders can proceed with absolute clarity and confidence.
 
