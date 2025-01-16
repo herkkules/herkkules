@@ -1,6 +1,7 @@
 # Practical Innovation. Nordic Qualities.
 > Seasoned and results-driven **Product Management** professional delivering impact from day one. I bring clarity, craftsmanship and practical execution to your most pressing strategic objectives. Base: North America.
 ---
+
 **On-the-ground Services:**
 
 I provide practical, high-stakes solutions at the intersection of strategy and execution. Translating strategic intent into measurable outcomes, I support organisations navigating critical challenges—be it entering new markets, conducting acquisition due diligence, or integrating complex systems. My approach is characterised by meticulous preparation, transparent communication, and an unwavering commitment to delivering tangible results in real time, ensuring challenges are addressed with clarity and precision.
