@@ -6,7 +6,7 @@
 
 Translating strategic intent into measurable outcomes requires legwork. I support organisations navigating critical challenges, whether it be physically opening new markets, conducting feasibility studies, or integrating complex systems. 
 
-> - **Due Diligence:** I conduct incisive, detail-oriented due diligence to as I understand the fundamentals of every bit connected to capital. Due to my unique educational combination i have academically validated knowledge and operational exposure towards to sensistive systems. I am a **Systems Thinking**-oriented **Software Developer** focused on breaking social dynamics into logical structures. I can break down mental models into code.
+> - **Due Diligence:** I conduct incisive, detail-oriented due diligence to as I understand the fundamentals of every bit connected to capital. Due to my unique educational combination i have academically validated knowledge and operational exposure towards to sensistive systems. I am a **Systems Thinking**-oriented **Software Developer** curious towards breaking social dynamics down into logical structures. I can break down mental models into code.
 
 > - **New Market Entry:** I dont talk the talk, but rather build iterations of common success. Entering a new market requires more than strategy, it demands a network-building and execution. I can offload some capacity by finding out which professional social networks are critical for success.
 
