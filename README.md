@@ -35,7 +35,7 @@ My core competency is in making creativity profitable. I design elegant and user
 
 >  - **Critical Information Management:** 
 
->  - **Distributed Systems:** For organisations with complex or decentralised operations, I develop distributed architectures that prioritise usability, security, and scalability, while ensuring ... and reliable performance across locations.
+>  - **Distributed Systems:** For organisations with complex or decentralised operations, I develop distributed architectures that prioritise usability and scalability, while ensuring security and reliable performance globally.
 
 
 ---
