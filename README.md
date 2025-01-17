@@ -21,7 +21,7 @@ I step in as a seasoned product leader to provide stability and direction by fil
 
 > Business evolution may lead to temporary  **Leadership Gaps**, requiring empathy and sustainable routines. I design and implement **Workflows** that enable your organisation to meet future **Growth** with agility and resilience, ensuring both immediate and continued success.
 
-> Turning strategy into practise requires working together with engineering teams to establish collective goals and a shared mental model among development teams and stakeholders to distil overarching goals into concrete, actionable plans, driving progress without compromising quality or vision.
+> Turning strategy into practise requires working together with engineering teams to establish collective goals and a shared mental modele among development teams and stakeholders to distil overarching goals into concrete, actionable plans, driving progress without compromising quality or vision.
 
 
 ---
