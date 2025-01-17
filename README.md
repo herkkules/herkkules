@@ -35,7 +35,7 @@ My core competency is in enabling profitable innovation. I design elegant and us
 
 >  - **Rugged Systems:**  I design robust solutions that remain stable under stress, ensuring continuity even in the face of disruption. From fail-safe architectures to redundancy planning, resilience is built into every layer of a system with no single points of failure.
 
->  - **Nordic Design:** My approach is inspired by the principles of Nordic design: purpose, simplicity, and practicality. Effective systems should feel intuitive and enhance the user experience without drawing attention to themselves. 
+>  - **Nordic Design:** My approach is inspired by the principles of Nordic design: purpose, simplicity, and practicality. Affective systems should feel intuitive and enhance the user experience without drawing attention to themselves. 
 
 >  - ...
 
