@@ -10,7 +10,7 @@ Translating strategic intent into measurable outcomes requires legwork. I suppor
 
 > - **New Market Entry:** I wake up in the mornings for the enthusiasm of implementation. I dont talk the talk, but rather iterature common success. Entering a new market requires more than strategy, it demands a network-building and execution. I can offload some capacity by finding out which professional social networks are critical for success.
 
-> - **Capability Implementation:** Transformational change hinges on the successful implementation of new capabilities. I orchestrate this process, designing and embedding systems, workflows, and practices that align with your strategic goals. Whether building operational resilience, scaling for growth, or integrating cutting-edge technologies, I ensure your organisation has the infrastructure and skills to thrive long after my engagement concludes.
+> - **Implementation:** Transformational change hinges on the successful implementation of new capabilities. I orchestrate this process, designing and embedding systems, workflows, and practices that align with your strategic goals. Whether building operational resilience, scaling for growth, or integrating cutting-edge technologies, I ensure your organisation has the infrastructure and skills to thrive long after my engagement concludes.
 
 
 ---
