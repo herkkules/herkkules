@@ -93,13 +93,15 @@ My core competency is in enabling profitable innovation. I design elegant and us
 >   - Responsible for **Financial Operations** of a business unit within a global organisation.  
 
 
-
+## Military experience:
 
 ### Lance Corporal (Reserve), Intelligence
 **Finnish Defence Forces** (6 months, National Conscription) 
 
 >   - Managed **Dispersed Operations** of critical communications infrastructure.
 >   - Promoted with distinction for recognised **Tactical Leadership**.
+
+
 
 ---
 
