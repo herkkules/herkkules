@@ -28,7 +28,7 @@ I step in as a seasoned product leader to provide stability and direction by fil
 
 **Complex Information Systems Design:**
 
-My core competency is in making creativity profitable. I design elegant and user-centric information systems rooted in open standards, ensuring long-term maintainability, measurability and **Artificial Intelligence**-readyness. My independent approach means I am free from vendor or proprietary biases, enabling me to focus on creating solutions that maximise value and options for your organization.
+My core competency is in enabling profitable innovation. I design elegant and user-centric information systems rooted in open standards, ensuring long-term maintainability, measurability and **Artificial Intelligence**-readyness. My independent approach means I am free from vendor or proprietary biases, enabling me to focus on creating solutions that maximise value and options for your organization.
 
 >  - **Resilient Operations:**  I design systems that remain stable under stress, ensuring operational continuity even in the face of disruption. From fail-safe architectures to redundancy planning, resilience is built into every layer.
 
@@ -45,7 +45,7 @@ My core competency is in making creativity profitable. I design elegant and user
 ### Product Owner, Visma  
 **Multinational FinTech SaaS** (1 year) 
 
->   - Led the creation of a **Corporate Innovation Unit**, providing a structured foundation for advanced initiatives and sustained competitiveness. Implemented **Product Lifecycle Management** processes to ensure alignment and scalability.
+>   - Created a **Corporate Innovation Unit**, providing a structured foundation for advanced initiatives and sustained competitiveness. Implemented **Product Lifecycle Management** processes to ensure alignment and scalability. ... outcome
 >   - Directed initiatives involving **Distributed Systems** and **Machine Learning** to deliver scalable and data-driven systems.
 >   - Engaged in **Stakeholder Management**, ensuring alignment while pursuing strategic objectives.
 
