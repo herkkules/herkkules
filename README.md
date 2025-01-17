@@ -35,7 +35,7 @@ My core competency is in enabling profitable innovation. I design elegant and us
 
 >  - **Rugged Systems:**  I design systems that remain stable under stress, ensuring operational continuity even in the face of disruption. From fail-safe architectures to redundancy planning, resilience is built into every layer.
 
->  - **Nordic Design:** Purpose, simplicity and practicality are the guidelines of my Design Thinking.
+>  - **Nordic Design:** Purpose, simplicity and practicality are the guidelines of my design tenets.
 
 >  - **Decentralised Architecture:** For organisations with sensitive or decentralised operations, I develop architectures that prioritise usability, scalability, and security while providing seamless performance.
 
