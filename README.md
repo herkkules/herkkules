@@ -23,7 +23,7 @@ I step in as a seasoned product leader to provide stability and drive by filling
 
 > - **Scaling for Growth:**  I design and implement frameworks to manage expansion, from optimising team structures to introducing scalable processes that align with organisational objectives.
 
-> - **Translating Strategy into routines:**  I work closely with teams and stakeholders to distil overarching goals into concrete, actionable plans, driving progress without compromising quality or vision.
+> - **Translating strategy into routines:**  I work closely with teams and stakeholders to distil overarching goals into concrete, actionable plans, driving progress without compromising quality or vision.
 
 
 ---
