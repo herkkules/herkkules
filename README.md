@@ -22,7 +22,7 @@ I step in as a seasoned product leader to provide stability and direction by fil
 
 > - **Leadership Gaps** are a common element of business evolution. Temporary... requiring empathy and sustainable routines. I design and implement **Workflows** that enable your organisation to meet future **Growth** with agility and resilience, ensuring both immediate and continued success.
 
-> - Turning strategy into practise requires working together with engineering teams to establish collective goals and a shared mental modele among development teams and stakeholders to distil overarching goals into action.
+> - **Collective goals** need to be nudged into practise.  shared mental modele among development teams and stakeholders to distil overarching goals into action.
 
 > - Leadership Development & training 
 
