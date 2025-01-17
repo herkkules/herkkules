@@ -22,7 +22,7 @@ Stepping in as a seasoned product leader to provide stability and direction by f
 
 > - **Leadership Gaps** are a common element of business evolution. Temporary setbacks can be resolved with structure, empathy and sustainable routines.
 
-> - **Common goals** need to be nudged into action and a shared mental model needs to be crafted.
+> - **Common goals** need to be nudged into action and a shared mental model needs to be crafted and communicated.
 
 > - **Development and training** is an important aspect of professional growth. A creative sounding board or an ... can prepare talent for tough questions. I can introduce tools to deal with organisation-specific issues.
 
