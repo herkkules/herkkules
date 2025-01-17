@@ -20,7 +20,7 @@ Turning strategic insights into measurable outcomes requires legwork. I support 
 
 I step in as a seasoned product leader to provide stability and direction by filling a leadership gap, managing the onboarding of a permanent executive, or scaling your product organisation to meet increasing demands. I add value through hands-on experience to ensure continuity and momentum.
 
-> - **Leadership Gaps** are a common element of business evolution. Temporary... requiring empathy and sustainable routines. I design and implement **Workflows** that enable your organisation to meet future **Growth** with agility and resilience, ensuring both immediate and continued success.
+> - **Leadership Gaps** are a common element of business evolution. Temporary... requiring empathy and sustainable routines. I design and implement **Workflows** that enable your organisation to meet future growth with agility and resilience, ensuring both immediate and continued success.
 
 > - **Common goals** need to be nudged into action and a shared mental model needs to be crafted. Sustainable routines need to be established.
 
