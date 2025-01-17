@@ -1,5 +1,5 @@
 # Profitable Innovation. Nordic Qualities.
-> Results-driven **Product Management** professional delivering impact from day one. With deep roots in Nordic design principles, I bring clarity, craftsmanship and practical solutions to pressing strategic challenges.
+> Results-driven **Product Management** professional delivering impact from day one. With deep roots in Nordic design principles, I bring clarity, creativity and practical solutions to pressing strategic challenges.
 ---
 
 **On-the-ground Services:**
