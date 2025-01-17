@@ -21,7 +21,7 @@ I step in as a seasoned product leader to provide stability and direction by fil
 
 > Business evolution periodically exposes a **Leadership Gap**, requiring empathy and sustainable routines. I design and implement **Workflows** that enable your organisation to meet future **Growth** with agility and resilience, ensuring both immediate and continued success.
 
-> Translating strategy into routines:  I work closely with teams and stakeholders to distil overarching goals into concrete, actionable plans, driving progress without compromising quality or vision.
+> Translating strategy into routines requires working together with teams to establish collective goals and a shared mental model among development teams and stakeholders to distil overarching goals into concrete, actionable plans, driving progress without compromising quality or vision.
 
 
 ---
