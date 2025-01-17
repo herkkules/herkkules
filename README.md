@@ -4,7 +4,7 @@
 
 **On-the-ground Services:**
 
-Translating strategic intent into measurable outcomes requires legwork. I support organisations navigating critical challenges—be it entering new markets, conducting due diligence for an acquisition, or integrating complex systems. 
+Translating strategic intent into measurable outcomes requires legwork. I support organisations navigating critical challenges, whether it be physically opening new markets, conducting feasibility studies, or integrating complex systems. 
 
 > - **Due Diligence:** I conduct incisive, detail-oriented due diligence to as I understand the fundamentals of every bit connected to capital. I am a **Systems Thinking**-oriented **Software Developer** focused on breaking social dynamics into logical structures. I can break down mental models into code.
 
