@@ -30,7 +30,7 @@ I step in as a seasoned product leader to provide stability and drive by filling
 
 **Complex Information Systems Design:**
 
-My sharp focus is on making creativity profitable. I specialise in designing elegant and user-centric information systems rooted in open standards, ensuring long-term adaptability, interoperability, and strategic alignment. My independent approach means I am free from vendor or proprietary biases, enabling me to focus on creating solutions that maximise long-term value and options for your organization.
+My sharp focus is on making creativity profitable. I specialise in designing elegant and user-centric information systems rooted in open standards, ensuring long-term maintainability, measurability and**Artificial Intelligence**-readyness. My independent approach means I am free from vendor or proprietary biases, enabling me to focus on creating solutions that maximise value and options for your organization.
 
 >  - **Resilient Operations:**  I design systems that thrive under pressure, ensuring operational continuity even in the face of disruption. From fail-safe architectures to redundancy planning, resilience is built into every layer.
 
