@@ -28,7 +28,7 @@ I step in as a seasoned product leader to provide stability and drive by filling
 
 ---
 
-**Complex Information Systems Design:**
+**Complex Information Systems Service Design:**
 
 I specialise in designing elegant and user-centric information systems rooted in open standards, ensuring long-term adaptability, interoperability, and strategic alignment. My independent approach means I am free from vendor or proprietary biases, enabling me to focus on creating solutions that maximise long-term value and options for your organization.
 
