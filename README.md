@@ -10,7 +10,7 @@ Translating strategy into measurable outcomes requires legwork. I support organi
 
 > - **Go-to-market:** Bias for action. Entering a new market requires more than a plan, it demands strategic network-building and professional partnerships.
 
-> - **Implementation:** The intensity of real-world implementation fuels my creativity. We can figure something out.
+> - **Developing Partnerships on the ground:** The intensity of real-world implementation fuels my creativity.
 
 ---
 
