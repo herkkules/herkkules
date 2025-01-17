@@ -29,11 +29,11 @@ I step in as a seasoned product leader to provide stability and drive by filling
 
 **Complex Information Systems Design:**
 
-My sharp focus is on making creativity profitable. I specialise in designing elegant and user-centric information systems rooted in open standards, ensuring long-term maintainability, measurability and**Artificial Intelligence**-readyness. My independent approach means I am free from vendor or proprietary biases, enabling me to focus on creating solutions that maximise value and options for your organization.
+My core competency is in making creativity profitable. I design elegant and user-centric information systems rooted in open standards, ensuring long-term maintainability, measurability and**Artificial Intelligence**-readyness. My independent approach means I am free from vendor or proprietary biases, enabling me to focus on creating solutions that maximise value and options for your organization.
 
->  - **Resilient Operations:**  I design systems that thrive under pressure, ensuring operational continuity even in the face of disruption. From fail-safe architectures to redundancy planning, resilience is built into every layer.
+>  - **Resilient Operations:**  I design systems that remain stable under stress, ensuring operational continuity even in the face of disruption. From fail-safe architectures to redundancy planning, resilience is built into every layer.
 
->  - **Critical Information Management:** Effective decisions demand timely, accurate data. I create frameworks that streamline the capture, organisation, and retrieval of critical information, empowering stakeholders with actionable insights.
+>  - **Critical Information Management:** 
 
 >  - **Distributed Systems:** For organisations with complex or decentralised operations, I develop distributed architectures that prioritise efficiency, security, and scalability, enabling seamless collaboration and reliable performance across locations.
 
