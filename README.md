@@ -7,7 +7,7 @@
 
 Translating strategy into measurable outcomes requires legwork. I support organisations navigating critical challenges, whether it be physically opening new markets, conducting feasibility studies, or integrating sensitive systems. 
 
-> I conduct user-focused **Due Diligence** studies with real-time visibility and alignment. I have academic fundamentals and operational experience in sensistive systems. I am a **Systems Thinking**-oriented **Software Developer** that strives to compartmentalise risks. I can break down mental models into code.
+> I conduct user-focused **Due Diligence** studies with real-time visibility and alignment. I have academic fundamentals and operational experience in sensistive systems. I am a systems thinking-oriented Software Developer that strives to compartmentalise risks. I can break down mental models into code.
 
 > Entering a new market requires more than a plan, it demands strategic network-building and professional partnerships. And a strong bias for action. I am at my creative best in turning local connections into partnerships and tangible business ventures.
 
