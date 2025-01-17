@@ -20,7 +20,7 @@ Turning strategic insights into measurable outcomes requires legwork. I support 
 
 I step in as a seasoned product leader to provide stability and direction by filling a leadership gap, managing the onboarding of a permanent executive, or scaling your product organisation to meet increasing demands. I add value through hands-on experience to ensure continuity and momentum.
 
-> - **Leadership Gaps** are a normal stage of business evolution. Temporary... requiring empathy and sustainable routines. I design and implement **Workflows** that enable your organisation to meet future **Growth** with agility and resilience, ensuring both immediate and continued success.
+> - **Leadership Gaps** are a common element of business evolution. Temporary... requiring empathy and sustainable routines. I design and implement **Workflows** that enable your organisation to meet future **Growth** with agility and resilience, ensuring both immediate and continued success.
 
 > - Turning strategy into practise requires working together with engineering teams to establish collective goals and a shared mental modele among development teams and stakeholders to distil overarching goals into action.
 
