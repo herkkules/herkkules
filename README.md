@@ -33,7 +33,7 @@ My core competency is in making creativity profitable. I design elegant and user
 
 >  - **Resilient Operations:**  I design systems that remain stable under stress, ensuring operational continuity even in the face of disruption. From fail-safe architectures to redundancy planning, resilience is built into every layer.
 
->  - **Nordic Design:** Purpose, elegance and practical problem-solving are the guidelines of my Design Thinking. 
+>  - **Nordic Design:** Purpose, elegance and craftsmanship are the guidelines of my Design Thinking. 
 >  - **Distributed Systems:** For organisations with sensitive or decentralised operations, I develop distributed architectures that prioritise usability, scalability, and security while providing seamless performance.
 
 
