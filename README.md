@@ -10,7 +10,7 @@ Turning strategic insights into measurable outcomes requires legwork. I support 
 
 > - **Due Diligence** can be used to boost credibility and operational oversight. I have academic fundamentals and operational experience in sensistive systems. I am a design thinking-oriented systems developer that likes to compartmentalise risks. I can break down mental models into code.
 
-> - Entering a new market requires more than a plan, it demands strategic network-building and professional partnerships. And a strong bias for action. I am at my creative best in cultivating local connections into partnerships and tangible business ventures.
+> - Entering a new market requires more than a plan, it demands strategic network-building and partnerships. And a strong bias for action. I am at my creative best in cultivating local connections into partnerships and tangible business ventures.
 
 > - ...
 
