@@ -19,7 +19,7 @@ Translating strategy into measurable outcomes requires legwork. I support organi
 
 I step in as a seasoned product leader to provide stability and drive by filling a leadership gap, managing the onboarding of a permanent executive, or scaling your product organisation to meet increasing demands. I deliver hands-on expertise to ensure continuity and momentum.
 
-> Company evolution sometimes brings its own **Leadership Gap**, requiring empathy and scalable systems. I design and implement frameworks that enable your organisation to meet growing demands with agility and resilience, ensuring both immediate and long-term success.
+> Company evolution sometimes brings its own **Leadership Gap**, requiring empathy and sustainable routines. I design and implement frameworks that enable your organisation to meet growing demands with agility and resilience, ensuring both immediate and long-term success.
 
 > - **Translating strategy into routines:**  I work closely with teams and stakeholders to distil overarching goals into concrete, actionable plans, driving progress without compromising quality or vision.
 
