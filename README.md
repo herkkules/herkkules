@@ -8,7 +8,7 @@ Translating strategy into measurable outcomes requires legwork. I support organi
 
 > - **Due Diligence:** I conduct user-focused feasibility studies with real-time visibility and alignment. I have academic fundamentals and operational experience in sensistive systems. I am a **Systems Thinking**-oriented **Software Developer** that strives to compartmentalise risks. I can break down mental models into code.
 
-> - **Go-to-market:** Bias for action. Entering a new market requires more than a plan, it demands strategic network-building and implementation. I can establish common professional social networks for setting up success.
+> - **Go-to-market:** Bias for action. Entering a new market requires more than a plan, it demands strategic network-building and implementation. I can establish common professional partnerships for success.
 
 > - **Implementation:** The intensity of real-world implementation fuels my creativity. We can figure something out.
 
