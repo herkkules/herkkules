@@ -22,7 +22,7 @@ I step in as a seasoned product leader to provide stability and direction by fil
 
 > - **Leadership Gaps** are a common element of business evolution. Temporary creases can be smoothed out with structure, empathy and sustainable routines. I design and implement ways of working that enable your organisation to meet future growth with agility and resilience, ensuring both immediate and continued success.
 
-> - **Common goals** need to be nudged into action and a shared mental model needs to be crafted. Sustainable routines need to be established.
+> - **Common goals** need to be nudged into action and a shared mental model needs to be crafted.
 
 > - **Development and training** is an important aspect of prefessional growth. I can be a sparring partner on innovation or i can prepare talent for tough questions. 
 
