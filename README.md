@@ -8,7 +8,7 @@
 
 Turning strategic insights into measurable outcomes requires legwork. I support organisations in navigating critical periods, whether it be physically opening new markets, conducting feasibility studies, or integrating sensitive systems. 
 
-> I conduct user-focused **Due Diligence** studies with real-time alignment. I have academic fundamentals and operational experience in sensistive systems. I am a systems thinking-oriented software developer that strives to compartmentalise risks. I can break down mental models into code.
+> I conduct user-focused **Due Diligence** studies with real-time scope alignment. I have academic fundamentals and operational experience in sensistive systems. I am a systems thinking-oriented software developer that strives to compartmentalise risks. I can break down mental models into code.
 
 > Entering a new market requires more than a plan, it demands strategic network-building and professional partnerships. And a strong bias for action. I am at my creative best in cultivating local connections into partnerships and tangible business ventures.
 
