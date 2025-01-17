@@ -95,7 +95,7 @@ My core competency is in enabling profitable innovation. I design elegant and us
 
 ## Military experience:
 
-### Lance Corporal (Reserve), Intelligence
+### Lance Corporal (Reserve)
 **Finnish Defence Forces** (6 months, National Conscription) 
 
 >   - Managed **Dispersed Operations** of critical communications infrastructure.
