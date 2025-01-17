@@ -11,7 +11,7 @@ Translating strategy into measurable outcomes requires legwork. I support organi
 
 > Entering a new market requires more than a plan, it demands strategic network-building and professional partnerships. And a strong bias for action. I am at my creative best in turning local connections into partnerships and tangible business ventures.
 
-> Third point
+> ...
 
 ---
 
