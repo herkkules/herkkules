@@ -23,6 +23,8 @@ I step in as a seasoned product leader to provide stability and direction by fil
 
 > Turning strategy into practise requires working together with engineering teams to establish collective goals and a shared mental modele among development teams and stakeholders to distil overarching goals into concrete, actionable plans, driving progress without compromising quality or vision.
 
+> Leadership Development & training 
+
 
 ---
 
