@@ -19,7 +19,7 @@ Translating strategy into measurable outcomes requires legwork. I support organi
 
 I step in as a seasoned product leader to provide stability and drive by filling a leadership gap, managing the onboarding of a permanent executive, or scaling your product organisation to meet increasing demands. I deliver hands-on expertise to ensure continuity and momentum.
 
-> Rapid expansion sometimes brings its own leadership gap, requiring emphatetic structure and scalable systems. I design and implement frameworks that enable your organisation to meet growing demands with agility and resilience, ensuring both immediate and long-term success.
+> Rapid expansion sometimes brings its own **Leadership Gap**, requiring empathy and scalable systems. I design and implement frameworks that enable your organisation to meet growing demands with agility and resilience, ensuring both immediate and long-term success.
 
 > - **Scaling for Growth:**  I design and implement frameworks to manage expansion, from optimising team structures to introducing scalable processes that align with organisational objectives.
 
