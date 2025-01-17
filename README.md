@@ -8,7 +8,7 @@ Translating strategic experiments into measurable outcomes requires legwork. I s
 
 > - **Due Diligence:** I conduct demand-oriented, detailed due diligence as I understand the fundamentals of every bit connected to capital. Due to my unique educational combination i have academically validated knowledge and operational exposure towards to sensistive systems. I am a **Design Thinking**-oriented **Software Developer** that understands systemic risk. I can break down mental models into code.
 
-> - **Business Development:** I dont talk the talk, but rather build iterations of common success. Entering a new market requires more than strategy, it demands network-building and execution. I can grow our common professional social networks for setting up success.
+> - **Business Development:** I dont talk the talk, but rather build iterations of common success. Entering a new market requires more than strategy, it demands network-building and execution. I can grow common professional social networks for setting up success.
 
 > - **Implementation:** The intensity of real-world implementation fuels my creativity. We can figure something out.
 
