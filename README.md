@@ -24,7 +24,7 @@ Stepping in as a seasoned product leader to provide stability and direction by f
 
 > - **Common goals** need to be nudged into action and a shared mental model needs to be crafted.
 
-> - **Development and training** is an important aspect of prefessional growth. I can be a sparring partner on innovation or i can prepare talent for tough questions. 
+> - **Development and training** is an important aspect of prefessional growth. I can be a sounding board or i can prepare talent for tough questions. 
 
 
 ---
