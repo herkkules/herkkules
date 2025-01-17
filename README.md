@@ -31,7 +31,7 @@ I step in as a seasoned product leader to provide stability and direction by fil
 
 **Complex Information Systems Design:**
 
-My core competency is in enabling profitable innovation. I design elegant and user-centric information systems rooted in open standards, ensuring long-term maintainability, measurability and **Artificial Intelligence**-readyness. My independent approach means I am free from vendor or proprietary biases, enabling me to focus on creating solutions that maximise value and options for your organization.
+My core competency is in enabling profitable innovation. I design elegant and user-centric information systems rooted in open standards, ensuring long-term maintainability, measurability and future relevance. My independent approach means I am free from vendor or proprietary biases, enabling me to focus on creating solutions that maximise value and options for your organization.
 
 >  - **Resilient Operations:**  I design systems that remain stable under stress, ensuring operational continuity even in the face of disruption. From fail-safe architectures to redundancy planning, resilience is built into every layer.
 
