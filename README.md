@@ -35,7 +35,7 @@ My core competency is in enabling profitable innovation. I design elegant and us
 
 >  - **Rugged Systems:**  I design systems that remain stable under stress, ensuring operational continuity even in the face of disruption. From fail-safe architectures to redundancy planning, resilience is built into every layer of a system with no single points of failure.
 
->  - **Nordic Design:** Purpose, simplicity and practicality are the my design tenets. A service has to feel good. Good design is out of the way, but present.
+>  - **Nordic Design:** Purpose, simplicity and practicality are the my design tenets. A service has to feel good. Good design is out of the way, but present. Interaction-design, platform depends on the use case.
 
 >  - ...
 
