@@ -37,7 +37,7 @@ My core competency is in enabling profitable innovation. I design elegant and us
 
 >  - **Nordic Design:** Purpose, simplicity and practicality are the guidelines of my design tenets.
 
->  - **Decentralised Architecture:** For organisations with sensitive or decentralised operations, I develop architectures that prioritise usability, scalability, and security while providing seamless performance.
+>  - ...
 
 
 ---
