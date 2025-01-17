@@ -33,7 +33,7 @@ Stepping in as a seasoned product leader to provide stability and direction by f
 
 My core competency is in enabling profitable innovation. I design elegant and user-centric information systems rooted in open standards, ensuring long-term maintainability, measurability and future relevance. My independent approach means I am unbiased towards service providers. I to focus on creating solutions that maximise value and options for your organisation.
 
->  - **Rugged Systems:**  I design systems that remain stable under stress, ensuring operational continuity even in the face of disruption. From fail-safe architectures to redundancy planning, resilience is built into every layer of a system with no single points of failure.
+>  - **Rugged Systems:**  I design systems that remain stable under stress, ensuring continuity even in the face of disruption. From fail-safe architectures to redundancy planning, resilience is built into every layer of a system with no single points of failure.
 
 >  - **Nordic Design:** Purpose, simplicity and practicality are the my design tenets. A service has to feel good. Good design is out of the way, but present. Interaction-design, platform depends on the use case.
 
