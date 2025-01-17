@@ -17,7 +17,7 @@ Translating strategic intent into measurable outcomes requires legwork. I suppor
 
 **Interim Leadership Services:**
 
-I step in as a seasoned product leader to provide stability and drive by filling a leadership gap, managing the onboarding of a permanent executive, or scaling your product organization to meet increasing demands, I deliver hands-on expertise to ensure continuity and momentum.
+I step in as a seasoned product leader to provide stability and drive by filling a leadership gap, managing the onboarding of a permanent executive, or scaling your product organization to meet increasing demands. I deliver hands-on expertise to ensure continuity and momentum.
 
 > - **Bridging Leadership Gap:** Rapid expansion brings its own complexities, requiring thoughtful structure and scalable systems. I design and implement frameworks that enable your organisation to meet growing demands with agility and resilience, ensuring both immediate and long-term success.
 
