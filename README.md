@@ -4,7 +4,7 @@
 
 **On-the-ground Services:**
 
-Translating strategic experiments into measurable outcomes requires legwork. I support organisations navigating critical challenges, whether it be physically opening new markets, conducting feasibility studies, or integrating complex systems. 
+Translating strategy into measurable outcomes requires legwork. I support organisations navigating critical challenges, whether it be physically opening new markets, conducting feasibility studies, or integrating complex systems. 
 
 > - **Due Diligence:** I conduct user-focused feasibility studies with real-time visibility and alignment. Due to my curious educational combination I have academically validated fundamentals and operational exposure towards sensistive systems. I am a **Systems Thinking**-oriented **Software Developer** that strives to compartmentalise risks. I can break down mental models into code.
 
