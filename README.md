@@ -10,7 +10,7 @@ Translating strategic intent into measurable outcomes requires legwork. I suppor
 
 > - **New Market Entry:** I dont talk the talk, but rather build iterations of common success. Entering a new market requires more than strategy, it demands network-building and execution. I can offload some capacity by finding out which professional social networks are critical for success.
 
-> - **Implementation:** The intensity of real-world implementation fuels my creativity.
+> - **Implementation:** The intensity of real-world implementation fuels my creativity. We can figure something out.
 
 ---
 
