@@ -24,7 +24,7 @@ Stepping in as a seasoned product leader to provide stability and direction by f
 
 > - **Common goals** need to be nudged into action and a shared mental model needs to be crafted.
 
-> - **Development and training** is an important aspect of professional growth. A creative sounding board or an ... can prepare talent for tough questions. I can introduce specific tools to deal with organisation-specific issues.
+> - **Development and training** is an important aspect of professional growth. A creative sounding board or an ... can prepare talent for tough questions. I can introduce tools to deal with organisation-specific issues.
 
 
 ---
