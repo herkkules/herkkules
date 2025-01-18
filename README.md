@@ -3,7 +3,7 @@
 
 ---
 
-**Elbow Grease:**
+**Elbow Grease Services:**
 
 
 Turning strategic insights into measurable outcomes requires legwork. I support organisations in navigating critical periods, whether it be in-person opening new markets, researching a product, or integrating sensitive systems. 
