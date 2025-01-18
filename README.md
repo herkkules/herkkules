@@ -24,7 +24,7 @@ Stepping in as a seasoned product leader to provide stability and direction ... 
 
 > - **Common Goals** need to be nudged into action and a shared mental model needs to be crafted and communicated.
 
-> - **Development and training** is an important aspect of professional growth. A solution-oriented sounding board or a ... can prepare talent for high-stakes situations or need tools for specific issues.
+> - **Development and training** is an important aspect of professional growth. A solution-oriented sounding board or a ... can prepare talent for high-stakes situations or need tools ... company-specific issues.
 
 
 ---
