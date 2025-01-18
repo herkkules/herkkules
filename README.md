@@ -33,11 +33,11 @@ Stepping in as a seasoned product leader to provide stability and direction by f
 
 My core competency is in enabling profitable innovation. I design elegant and user-centric information systems rooted in open standards, ensuring long-term maintainability, measurability and future relevance. My independent approach means I am unbiased towards service providers. I to focus on creating solutions that maximise value and options for your organisation.
 
->  - **Rugged Systems:**  I design robust solutions that remain stable under stress, ensuring continuity even in the face of disruption. From fail-safe architectures to redundancy planning, resilience is built into every layer of a system with no single points of failure.
+>  - **Rugged System** ... design robust solutions that remain stable under stress, ensuring continuity even in the face of disruption. From fail-safe architectures to redundancy planning, resilience is built into every layer of a system with no single points of failure.
 
->  - **Elegant Funcion is what characterises the Nordic approach. My principles of purpose, simplicity, and practicality guide (design). Affective user experiences feel intuitive without drawing attention to themselves. Solutions are well design when there is nothing more to remove and (inertia/friction) is minimised.
+>  - **Elegant Funcion** is what characterises the Nordic approach. My principles of purpose, simplicity, and practicality guide (design). Affective user experiences feel intuitive without drawing attention to themselves. Solutions are well design when there is nothing more to remove and (inertia/friction) is minimised.
 
->  - ...
+>  - Maintainable software ...
 
 
 ---
