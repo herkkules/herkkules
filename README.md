@@ -12,7 +12,7 @@ Turning strategic insights into measurable outcomes requires legwork. I support 
 
 > - **Market Entry** requires more than a plan, it demands strategic network-building and partnerships. And a strong bias for action. I am at my creative best in cultivating local connections into partnerships and tangible business ventures.
 
-> - Integration of critical systems requires someone 'who gets it' on the ground.
+> - **Integration** of critical systems requires someone 'who gets it' on the ground.
 
 ---
 
