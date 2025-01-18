@@ -32,6 +32,7 @@ Stepping in as a seasoned product leader to provide stability and direction ... 
 **Design of Complex Systems:**
 
 My core competency is in enabling profitable innovation. I craft elegant and user-centric systems rooted in open standards, ensuring long-term relevance. 
+
 My independent approach means I am unbiased towards specific service providers. Mt focus is on creating solutions that maximise value and future options for your organisation.
 
 >  - **Rugged Systems** are robust solutions that remain stable under stress, ensuring continuity even in the face of disruption. From fail-safe architectures to redundancy planning, resilience is built into every layer of a system with no single points of failure.
