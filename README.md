@@ -37,7 +37,7 @@ My core competency is in enabling profitable innovation. I craft elegant and use
 
 >  - **Elegant Function** is the goal of a collaborative and user-centric design process. Guided by purpose, simplicity, and practicality, my approach ensures affective user experiences that feel uncomplicated.
 
->  - **Maintainable software** is focused on simplifying until nothing more can be removed. Effective knowledge transfer ... on-/offboarding ... structure.
+>  - **Maintainable software** is built by simplifying until nothing more can be removed. Effective knowledge transfer ... on-/offboarding ... structure.
 
 
 ---
