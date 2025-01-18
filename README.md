@@ -6,7 +6,7 @@
 **On-the-ground Execution:**
 
 
-Turning strategic insights into measurable outcomes requires legwork. I support organisations in navigating critical periods, whether it be physically opening new markets, researching products, or integrating sensitive systems. 
+Turning strategic insights into measurable outcomes requires legwork. I support organisations in navigating critical periods, whether it be in-person opening new markets, researching a product, or integrating sensitive systems. 
 
 > - **Product Studies** can be used to reduce risk and improve operational oversight. Equipped with academic fundamentals and operational experience, I can pick apart mental models into executable code for due diligence and feasibility.
 
