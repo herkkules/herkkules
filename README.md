@@ -31,7 +31,7 @@ Stepping in as a seasoned product leader to provide stability and direction ... 
 
 **Design of Complex Systems:**
 
-My core competency is in enabling profitable innovation. I design elegant and user-centric information systems rooted in open standards, ensuring long-term relevance. 
+My core competency is in enabling profitable innovation. I design elegant and user-centric systems rooted in open standards, ensuring long-term relevance. 
 
 My independent approach means I am unbiased towards specific service providers. Mt focus is on creating solutions that maximise value and future options for your organisation.
 
