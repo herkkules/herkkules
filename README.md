@@ -8,7 +8,7 @@
 
 Turning strategic insights into measurable outcomes requires legwork. I support organisations in navigating critical periods, whether it be physically opening new markets, conducting feasibility studies, or integrating sensitive systems. 
 
-> - **Product Due Diligence** can be used to boost credibility and operational oversight. Equipped with academic fundamentals and operational experience ... user-centric developer ... risk. I can break down mental models into executable code.
+> - **Product Due Diligence** can be used to boost credibility and operational oversight. Equipped with academic fundamentals and operational experience ... risk. I can break down mental models into executable code.
 
 > - **Market Entry** requires more than a plan, it demands strategic network-building and partnerships. And a strong bias for action. I am at my creative best in cultivating local connections into partnerships and tangible business ventures.
 
@@ -35,7 +35,7 @@ My core competency is in enabling profitable innovation. I design elegant and us
 
 >  - **Rugged System** ... design robust solutions that remain stable under stress, ensuring continuity even in the face of disruption. From fail-safe architectures to redundancy planning, resilience is built into every layer of a system with no single points of failure.
 
->  - **Elegant Funcion** is what characterises the Nordic approach. My principles of purpose, simplicity, and practicality guide (design). Affective user experiences feel intuitive without drawing attention to themselves. Solutions are well design when there is nothing more to remove and (inertia/friction) is minimised.
+>  - **Elegant Function** is what characterises the Nordic approach. My principles of purpose, simplicity, and practicality guide (design). Affective user experiences feel intuitive without drawing attention to themselves. Solutions are well design when there is nothing more to remove and (inertia/friction) is minimised. ... user-centric developer ...
 
 >  - Maintainable software ...
 
