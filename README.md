@@ -3,7 +3,7 @@
 
 ---
 
-**On-the-ground Services:**
+**On-the-ground Execution:**
 
 
 Turning strategic insights into measurable outcomes requires legwork. I support organisations in navigating critical periods, whether it be physically opening new markets, conducting feasibility studies, or integrating sensitive systems. 
