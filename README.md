@@ -33,7 +33,7 @@ Stepping in as a seasoned product leader to provide stability and direction ... 
 
 My core competency is in enabling profitable innovation. I craft elegant and user-centric systems rooted in open standards, ensuring long-term relevance and scalability. 
 
->  - **Rugged Systems** remain stable under stress, ensuring continuity even in the face of disruption. From fail-safe architectures to redundancy planning, resilience is built into every layer of a system with no single points of failure.
+>  - **Rugged Systems** remain stable under stress, ensuring continuity even in the face of disruption. From distributed architectures to redundancy planning, resilience is built into every layer of a system with no single points of failure.
 
 >  - **Elegant Function** is the goal of a collaborative and user-centric design process. Guided by purpose, simplicity, and practicality, my approach ensures affective user experiences that feel uncomplicated.
 
