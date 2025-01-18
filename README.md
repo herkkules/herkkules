@@ -12,7 +12,7 @@ Turning strategic insights into measurable outcomes requires legwork. I support 
 
 > - **Product Studies** can unlock value, improve operational oversight and reduce risk. Equipped with academic fundamentals and operational experience, I can pick apart mental models and structure them into code for feasibility and due diligence.
 
-> - **Integration** of sensitive systems requires someone 'who gets it' on the ground.
+> - **Integration** of sensitive systems demands someone 'who gets it' on the ground.
 
 ---
 
