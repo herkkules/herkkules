@@ -31,7 +31,7 @@ Stepping in as a seasoned product leader to provide stability and direction ... 
 
 **Complex System Design:**
 
-My core competency is in enabling profitable innovation. I design elegant and user-centric information systems rooted in open standards, ensuring long-term relevance. My independent approach means I am unbiased towards specific service providers. I to focus on creating solutions that maximise value and future options for your organisation.
+My core competency is in enabling profitable innovation. I design elegant and user-centric information systems rooted in open standards, ensuring long-term relevance. My independent approach means I am unbiased towards specific service providers. Mt focus is on creating solutions that maximise value and future options for your organisation.
 
 >  - **Rugged System** ... design robust solutions that remain stable under stress, ensuring continuity even in the face of disruption. From fail-safe architectures to redundancy planning, resilience is built into every layer of a system with no single points of failure.
 
