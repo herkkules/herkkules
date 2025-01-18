@@ -35,7 +35,7 @@ My core competency is in enabling profitable innovation. I design elegant and us
 
 My independent approach means I am unbiased towards specific service providers. Mt focus is on creating solutions that maximise value and future options for your organisation.
 
->  - **Rugged System** ... design robust solutions that remain stable under stress, ensuring continuity even in the face of disruption. From fail-safe architectures to redundancy planning, resilience is built into every layer of a system with no single points of failure.
+>  - **Rugged Systems** are robust solutions that remain stable under stress, ensuring continuity even in the face of disruption. From fail-safe architectures to redundancy planning, resilience is built into every layer of a system with no single points of failure.
 
 >  - **Elegant Function** is what characterises my Nordic approach. My principles of purpose, simplicity, and practicality ensure affective user experiences that feel uncomplicated.
 
