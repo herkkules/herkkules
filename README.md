@@ -29,7 +29,7 @@ Stepping in as a seasoned product leader to provide stability and direction ... 
 
 ---
 
-**Complex Information System Design:**
+**Design of complex Information Systems:**
 
 My core competency is in enabling profitable innovation. I design elegant and user-centric information systems rooted in open standards, ensuring long-term relevance. 
 
