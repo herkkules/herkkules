@@ -37,7 +37,7 @@ My independent approach means I am unbiased towards specific service providers. 
 
 >  - **Rugged Systems** are robust solutions that remain stable under stress, ensuring continuity even in the face of disruption. From fail-safe architectures to redundancy planning, resilience is built into every layer of a system with no single points of failure.
 
->  - **Elegant Function** is what characterises my Nordic approach. My principles of purpose, simplicity, and practicality ensure affective user experiences that feel uncomplicated.
+>  - **Elegant Function** is the goal of a collaborative design process. My principles of purpose, simplicity, and practicality ensure affective user experiences that feel uncomplicated.
 
 >  - **Maintainable software** is focused on simplifying until nothing more can be removed. Effective knowledge transfer ... on-/offboarding ... structure.
 
