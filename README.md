@@ -8,7 +8,7 @@
 
 Turning strategic insights into measurable outcomes requires legwork. I support organisations in navigating critical periods, whether it be physically opening new markets, conducting feasibility studies, or integrating sensitive systems. 
 
-> - **Product Due Diligence** can be used to boost credibility and operational oversight. I have academic fundamentals and operational experience in sensistive systems. I am a user-centric developer that likes to ... risk. I can break down mental models into executable code.
+> - **Product Due Diligence** can be used to boost credibility and operational oversight. Equipped with academic fundamentals and operational experience ... user-centric developer ... risk. I can break down mental models into executable code.
 
 > - **Market Entry** requires more than a plan, it demands strategic network-building and partnerships. And a strong bias for action. I am at my creative best in cultivating local connections into partnerships and tangible business ventures.
 
