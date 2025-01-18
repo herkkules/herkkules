@@ -100,7 +100,7 @@ My core competency is in enabling profitable innovation. I design elegant and us
 ### Lance Corporal (Reserve)
 **Finnish Defence Forces** (6 months, National Conscription) 
 
->   - Managed **Dispersed Operations** of critical communications infrastructure.
+>   - Maintained **Dispersed Operations** of critical communications infrastructure.
 >   - Promoted with distinction for recognised **Tactical Leadership**.
 
 
