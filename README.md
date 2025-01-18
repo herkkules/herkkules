@@ -35,7 +35,7 @@ My core competency is in enabling profitable innovation. I design elegant and us
 
 >  - **Rugged System** ... design robust solutions that remain stable under stress, ensuring continuity even in the face of disruption. From fail-safe architectures to redundancy planning, resilience is built into every layer of a system with no single points of failure.
 
->  - **Elegant Function** is what characterises my Nordic approach. My principles of purpose, simplicity, and practicality ... Affective user experiences feel intuitive without drawing attention to themselves.
+>  - **Elegant Function** is what characterises my Nordic approach. My principles of purpose, simplicity, and practicality ensure affective user experiences that feel unomplicated.
 
 >  - **Maintainable software** is focused on simplifying until nothing more can be removed. Stubborn user-focus.
 
