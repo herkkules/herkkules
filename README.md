@@ -8,7 +8,7 @@
 
 Turning strategic insights into measurable outcomes requires legwork. I support organisations in navigating critical periods, whether it be physically opening new markets, conducting feasibility studies, or integrating sensitive systems. 
 
-> - **Product Due Diligence** can be used to reduce risk and improve operational oversight. Equipped with academic fundamentals and operational experience, I can pick apart mental models into executable code.
+> - **Product Studies** can be used to reduce risk and improve operational oversight. Equipped with academic fundamentals and operational experience, I can pick apart mental models into executable code.
 
 > - **Market Entry** requires more than a plan, it demands strategic network-building and partnerships. And a strong bias for action. I am at my creative best in cultivating local connections into partnerships and tangible business ventures.
 
