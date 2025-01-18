@@ -37,7 +37,7 @@ My core competency is in enabling profitable innovation. I design elegant and us
 
 >  - **Elegant Function** is what characterises my Nordic approach. My principles of purpose, simplicity, and practicality ... Affective user experiences feel intuitive without drawing attention to themselves.
 
->  - **Maintainable software** is ready for implementation when nothing more can be removed.
+>  - **Maintainable software** is focused on iterating until nothing more can be removed.
 
 
 ---
