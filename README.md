@@ -18,7 +18,7 @@ Turning strategic insights into measurable outcomes requires legwork. I support 
 
 **Interim Leadership Services:**
 
-Stepping in as a seasoned product leader to provide stability and direction to i can help maintain momentum. Whether managing the onboarding of a permanent executive or scaling your product organisation to meet increasing demands.
+Stepping in as a seasoned product leader to provide stability and direction, I can help maintain momentum. Whether it managing the onboarding of a permanent leader or scaling your product organisation to meet increasing demands.
 
 > - **Leadership Gaps** are a common element of business evolution. Temporary setbacks can be resolved with structure, empathy and sustainable routines.
 
