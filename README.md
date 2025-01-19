@@ -49,7 +49,7 @@ My core competency is in enabling profitable innovation. I craft elegant and use
 ### Product Owner, Visma  
 **Multinational FinTech SaaS** (1 year) 
 
->   - Created a **Corporate Innovation Unit**, providing a structured foundation for advanced initiatives and sustained competitiveness. Implemented **Product Lifecycle Management** processes to ensure alignment and scalability. ... outcome
+>   - Created a **Corporate Innovation Unit**, providing a foundation for advanced initiatives and sustained competitiveness. Implemented **Product Lifecycle Management** processes to ensure alignment and scalability. ... outcome
 >   - Directed initiatives involving **Distributed Systems** and **Machine Learning** to deliver scalable and data-driven systems.
 >   - Engaged in **Stakeholder Management**, ensuring alignment while pursuing strategic objectives.
 
