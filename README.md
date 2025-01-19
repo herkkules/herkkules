@@ -126,7 +126,7 @@ My core competency is in enabling profitable innovation. I craft elegant and use
 **Hanken School of Economics** & **University of Helsinki** ~ 2026
 > - **Thesis:** *Governance of Capital-Intensive Investments: Bridging DeFi and Physical Assets*
 > - An interdisciplinary thesis project bridging **Financial Engineering** and **Software Development**.
-> - Focus Areas: Data-driven Product Management, Dispersed Operations
+
 
 ---
 ## Volunteering  
