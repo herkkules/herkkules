@@ -6,7 +6,7 @@
 **Elbow Grease Services:**
 
 
-Turning strategic insights into measurable outcomes requires legwork. I support organisations in navigating critical periods, whether it be in-person opening new markets, researching a product, or integrating sensitive systems. 
+Turning strategic insights into measurable outcomes requires legwork. I support organisations in navigating critical periods, whether it be in-person opening new markets, researching a product, or integrating sensitive systems. Combining hands-on experience and strategic foresight ...
 
 > - **Market Entry** requires more than a plan, it demands strategic network-building and partnerships. And a strong bias for action. I am at my creative best in cultivating local connections into partnerships and tangible business ventures.
 
@@ -18,7 +18,7 @@ Turning strategic insights into measurable outcomes requires legwork. I support 
 
 **Interim Leadership Services:**
 
-Stepping in as a seasoned product leader to provide stability and direction, I can help maintain momentum. Whether it managing the onboarding of a permanent leader or scaling your product organisation to meet increasing demands.
+Stepping in as a seasoned product leader to provide stability and direction. I help maintain momentum and continuity. Whether it be managing the onboarding of a permanent leader or scaling your product organisation to meet increasing demands.
 
 > - **Leadership Gaps** are a common element of business evolution. Temporary setbacks can be resolved with structure, empathy and sustainable routines.
 
