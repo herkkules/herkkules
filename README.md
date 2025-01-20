@@ -118,7 +118,7 @@ My core competency is in enabling profitable innovation. I craft elegant and use
 
 ### B.Sc. in Computer Science
 **University of Helsinki**, Finland ~ 2025 (WIP)
->  - **Thesis:**   *Foundations of Open Standards for Web 3D Technologies*
+>  - **Thesis:** *Foundations of Open Standards for Web 3D Technologies*
 >  - Globally recognised European research university, 107th in World University Ranking (Times Higher Education, 2025).   
  
 
