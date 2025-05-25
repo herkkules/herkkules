@@ -3,16 +3,16 @@
 
 ---
 
-**Elbow Grease Services:**
+**Execution Services:**
 
 
-Turning strategic insights into measurable outcomes requires legwork. I support organisations in navigating critical periods, whether it be in-person opening new markets, researching a product, or integrating sensitive systems. Combining hands-on experience and strategic foresight ...
+Turning strategic insights into measurable outcomes requires legwork. I support organisations in navigating critical periods, whether it be in-person opening new markets, researching a product, or integrating sensitive systems. Combining hands-on experience and strategic foresight I move initiatives from vision to reality.
 
 > - **Market Entry** requires more than a plan, it demands strategic network-building and partnerships. And a strong bias for action. I am at my creative best in cultivating local connections into partnerships and tangible business ventures.
 
 > - **Product Studies** can find opportunities, improve operational oversight and reduce risk. Equipped with academic fundamentals and operational experience, I can pick apart mental models and structure them into code for feasibility and due diligence.
 
-> - **Integration** of sensitive systems demands someone 'who gets it' on the ground.
+> - **Sensitive System Integration** requires technical insight and on-the-ground leadership, I ensure seamless integration of complex systems, maintaining security and performance under pressure.
 
 ---
 
@@ -100,7 +100,6 @@ My core competency is in enabling profitable innovation. I craft elegant and use
 ### Lance Corporal (Reserve)
 **Finnish Defence Forces** (6 months, National Conscription) 
 
->   - Oversaw **Dispersed Operations** of critical communications infrastructure.
 >   - Promoted with distinction for recognised **Tactical Leadership**.
 
 
